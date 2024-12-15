@@ -1,0 +1,1001 @@
+Date,Day of Week,Time of Day,Menu Item,Price ($),Units Sold,Competitor Price ($),Customer Type,Weather,Holiday,Special Promotion,Profit Margin ($),Daily Sales ($)
+2022-01-01,Sunday,Morning,Tea,2.8,65,5.72,Loyal,Cloudy,No,,0.58,182.0
+2022-01-02,Thursday,Morning,Tea,5.98,32,4.7,New,Sunny,No,Buy 1 Get 1,4.79,191.36
+2022-01-03,Friday,Afternoon,Tea,2.36,20,3.23,Loyal,Cloudy,Yes,,1.33,47.2
+2022-01-04,Sunday,Evening,Smoothie,2.01,73,3.48,New,Rainy,No,Buy 1 Get 1,-0.02,146.73
+2022-01-05,Wednesday,Morning,croissant,2.18,17,4.2,Loyal,Sunny,Yes,,0.73,37.06
+2022-01-06,Friday,Evening,Tea,3.37,65,5.16,New,Sunny,No,Discount 10%,1.43,219.05
+2022-01-07,Friday,Morning,Tea,4.53,69,3.27,New,Rainy,Yes,,3.3,312.57
+2022-01-08,Sunday,Morning,Smoothie,2.28,19,4.32,New,Snowy,No,Discount 10%,0.58,43.32
+2022-01-09,Tuesday,Evening,Smoothie,2.02,48,3.38,Loyal,Snowy,Yes,,0.26,96.96
+2022-01-10,Wednesday,Afternoon,Tea,5.75,37,5.26,Loyal,Rainy,No,,3.87,212.75
+2022-01-11,Sunday,Morning,Coffee,5.29,58,3.87,Loyal,Rainy,Yes,Buy 1 Get 1,3.52,306.82
+2022-01-12,Wednesday,Morning,Tea,5.24,45,2.31,Loyal,Cloudy,No,Buy 1 Get 1,3.5,235.8
+2022-01-13,Wednesday,Morning,Tea,5.54,22,2.66,Loyal,Sunny,Yes,Buy 1 Get 1,4.04,121.88
+2022-01-14,Friday,Evening,Smoothie,4.8,45,2.24,New,Cloudy,No,,3.69,216.0
+2022-01-15,Thursday,Afternoon,Smoothie,2.42,35,4.0,New,Rainy,No,,1.29,84.7
+2022-01-16,Wednesday,Evening,Tea,3.6,95,2.43,New,Cloudy,No,,1.95,342.0
+2022-01-17,Saturday,Evening,Tea,4.89,13,2.46,New,Rainy,Yes,Discount 10%,3.36,63.57
+2022-01-18,Friday,Afternoon,Tea,3.12,91,5.76,New,Cloudy,Yes,Discount 10%,1.35,283.92
+2022-01-19,Tuesday,Evening,Smoothie,4.75,73,5.49,New,Cloudy,Yes,,3.29,346.75
+2022-01-20,Thursday,Afternoon,Tea,2.1,47,3.81,New,Snowy,Yes,Buy 1 Get 1,0.07,98.7
+2022-01-21,Saturday,Morning,Tea,3.22,97,5.94,Loyal,Rainy,Yes,Buy 1 Get 1,0.92,312.34
+2022-01-22,Saturday,Afternoon,Cup Cake,4.2,96,2.0,New,Cloudy,No,Buy 1 Get 1,2.75,403.2
+2022-01-23,Tuesday,Morning,Coffee,4.53,31,4.46,Loyal,Sunny,Yes,,3.24,140.43
+2022-01-24,Thursday,Evening,croissant,4.31,11,4.47,New,Cloudy,No,Buy 1 Get 1,3.14,47.41
+2022-01-25,Friday,Evening,Coffee,4.79,40,3.83,New,Cloudy,No,,2.87,191.6
+2022-01-26,Monday,Morning,Cupcake,2.02,20,3.59,Loyal,Sunny,Yes,Discount 10%,0.35,40.4
+2022-01-27,Thursday,Evening,Croissant,2.4,55,3.82,New,Rainy,No,Buy 1 Get 1,1.12,132.0
+2022-01-28,Tuesday,Afternoon,Tea,5.48,71,3.66,Loyal,Snowy,Yes,Discount 10%,3.5,389.08
+2022-01-29,Saturday,Morning,Cupcake,4.73,78,4.92,New,Snowy,Yes,Buy 1 Get 1,3.51,368.94
+2022-01-30,Friday,Evening,Tea,2.45,73,2.54,Loyal,Snowy,Yes,,0.62,178.85
+2022-01-31,Thursday,Morning,Smoothie,5.37,19,2.79,New,Sunny,No,,3.58,102.03
+2022-02-01,Monday,Afternoon,Cupcake,2.97,49,2.72,Loyal,Cloudy,Yes,,0.87,145.53
+2022-02-02,Monday,Afternoon,Smoothie,3.91,33,3.05,Loyal,Rainy,Yes,,2.83,129.03
+2022-02-03,Wednesday,Evening,Cupcake,2.58,53,4.1,New,Cloudy,Yes,Buy 1 Get 1,0.25,136.74
+2022-02-04,Wednesday,Afternoon,Cupcake,4.84,69,2.44,New,Snowy,No,Discount 10%,2.79,333.96
+2022-02-05,Sunday,Morning,Smoothie,4.67,71,5.47,Loyal,Cloudy,Yes,,3.35,331.57
+2022-02-06,Tuesday,Afternoon,Croissant,2.84,96,3.19,New,Sunny,No,Buy 1 Get 1,1.56,272.64
+2022-02-07,Thursday,Morning,Coffee,5.45,26,2.65,Loyal,Sunny,No,Discount 10%,3.8,141.7
+2022-02-08,Thursday,Morning,Tea,3.61,74,4.7,New,Rainy,Yes,,1.38,267.14
+2022-02-09,Sunday,Afternoon,Cupcake,3.17,66,2.15,Loyal,Rainy,No,Discount 10%,0.91,209.22
+2022-02-10,Saturday,Evening,Tea,2.61,64,4.48,New,Snowy,No,,0.83,167.04
+2022-02-11,Saturday,Afternoon,Smoothie,3.06,62,4.79,Loyal,Rainy,Yes,Discount 10%,0.77,189.72
+2022-02-12,Sunday,Morning,Tea,2.09,65,2.86,New,Cloudy,Yes,Discount 10%,1.08,135.85
+2022-02-13,Saturday,Morning,Smoothie,4.33,18,2.17,Loyal,Sunny,Yes,,3.28,77.94
+2022-02-14,Wednesday,Afternoon,Tea,5.37,31,3.45,Loyal,Sunny,No,Buy 1 Get 1,3.0,166.47
+2022-02-15,Thursday,Evening,Coffee,4.2,22,2.39,New,Sunny,Yes,Discount 10%,2.04,92.4
+2022-02-16,Sunday,Evening,Coffee,2.88,98,2.47,New,Rainy,No,,1.2,282.24
+2022-02-17,Thursday,Morning,Coffee,2.13,57,3.02,Loyal,Sunny,No,Discount 10%,-0.0,121.41
+2022-02-18,Monday,Morning,Coffee,2.86,27,3.18,Loyal,Sunny,No,Discount 10%,0.43,77.22
+2022-02-19,Wednesday,Evening,Coffee,3.66,85,4.12,Loyal,Sunny,No,Buy 1 Get 1,1.5,311.1
+2022-02-20,Friday,Afternoon,Coffee,5.04,49,4.71,Loyal,Snowy,No,Discount 10%,2.78,246.96
+2022-02-21,Wednesday,Morning,Smoothie,2.75,26,4.37,New,Snowy,Yes,Discount 10%,0.61,71.5
+2022-02-22,Sunday,Morning,Cupcake,4.88,24,2.59,Loyal,Rainy,Yes,,3.63,117.12
+2022-02-23,Friday,Evening,Tea,5.47,24,2.69,Loyal,Sunny,No,,3.22,131.28
+2022-02-24,Monday,Afternoon,Coffee,3.82,88,5.52,Loyal,Rainy,No,Buy 1 Get 1,2.53,336.16
+2022-02-25,Sunday,Evening,Smoothie,5.29,72,4.23,New,Sunny,Yes,Discount 10%,2.95,380.88
+2022-02-26,Tuesday,Afternoon,Smoothie,4.22,48,5.48,Loyal,Sunny,Yes,Discount 10%,2.53,202.56
+2022-02-27,Thursday,Afternoon,Smoothie,4.55,22,3.49,New,Sunny,No,Discount 10%,2.53,100.1
+2022-02-28,Monday,Afternoon,Cupcake,4.11,90,4.46,New,Rainy,No,Buy 1 Get 1,2.36,369.9
+2022-02-28,Thursday,Morning,Tea,3.85,41,4.09,New,Rainy,Yes,Discount 10%,2.71,157.85
+2022-03-01,Saturday,Evening,Cupcake,2.94,18,3.28,New,Sunny,Yes,,1.5,52.92
+2022-03-02,Tuesday,Evening,Croissant,3.21,49,3.88,New,Cloudy,No,Buy 1 Get 1,0.73,157.29
+2022-03-03,Tuesday,Afternoon,Smoothie,3.16,29,4.01,New,Rainy,Yes,,0.72,91.64
+2022-03-04,Monday,Morning,Croissant,4.25,99,2.8,New,Snowy,Yes,,2.77,420.75
+2022-03-05,Tuesday,Morning,Coffee,2.48,94,3.26,Loyal,Rainy,No,Buy 1 Get 1,-0.01,233.12
+2022-03-06,Friday,Evening,Coffee,5.67,91,5.17,Loyal,Sunny,No,,3.4,515.97
+2022-03-07,Tuesday,Morning,Cupcake,4.88,86,5.66,New,Cloudy,No,Discount 10%,2.96,419.68
+2022-03-08,Thursday,Morning,Tea,3.61,89,3.44,Loyal,Sunny,Yes,Buy 1 Get 1,2.55,321.29
+2022-03-09,Thursday,Afternoon,Croissant,2.63,82,3.23,Loyal,Snowy,No,,0.28,215.66
+2022-03-10,Sunday,Morning,Tea,5.53,72,2.78,New,Rainy,Yes,Discount 10%,3.69,398.16
+2022-03-11,Thursday,Afternoon,Cupcake,5.3,85,4.71,Loyal,Rainy,No,Discount 10%,3.0,450.5
+2022-03-12,Sunday,Evening,Coffee,4.89,53,3.29,New,Sunny,No,,2.64,259.17
+2022-03-13,Thursday,Morning,Tea,3.09,47,5.95,Loyal,Sunny,Yes,Discount 10%,0.84,145.23
+2022-03-14,Friday,Evening,Tea,3.61,92,3.3,New,Snowy,Yes,Buy 1 Get 1,1.56,332.12
+2022-03-15,Sunday,Evening,Coffee,2.41,69,3.58,New,Cloudy,No,,0.97,166.29
+2022-03-16,Wednesday,Morning,Croissant,2.76,80,4.41,Loyal,Snowy,No,Discount 10%,1.26,220.8
+2022-03-17,Saturday,Morning,Coffee,5.13,57,5.21,Loyal,Cloudy,Yes,Discount 10%,3.67,292.41
+2022-03-18,Monday,Evening,Tea,4.86,27,3.88,New,Rainy,No,,3.83,131.22
+2022-03-19,Thursday,Morning,Croissant,4.37,25,3.69,New,Cloudy,Yes,,2.5,109.25
+2022-03-20,Tuesday,Afternoon,Croissant,5.58,64,5.98,New,Cloudy,Yes,,3.53,357.12
+2022-03-21,Thursday,Afternoon,Coffee,4.33,48,2.04,Loyal,Rainy,No,,2.05,207.84
+2022-03-22,Tuesday,Morning,Tea,3.87,77,5.58,Loyal,Rainy,Yes,Buy 1 Get 1,2.66,297.99
+2022-03-23,Saturday,Evening,Cupcake,3.36,68,2.6,Loyal,Rainy,Yes,,1.54,228.48
+2022-03-24,Saturday,Morning,Tea,5.76,98,5.14,Loyal,Snowy,Yes,Buy 1 Get 1,4.75,564.48
+2022-03-25,Saturday,Morning,Smoothie,2.33,71,4.47,New,Rainy,No,Buy 1 Get 1,1.19,165.43
+2022-03-26,Tuesday,Evening,Cupcake,5.72,22,3.37,New,Sunny,Yes,,4.64,125.84
+2022-03-27,Thursday,Evening,Croissant,5.31,90,5.5,New,Rainy,No,Buy 1 Get 1,3.22,477.9
+2022-03-28,Saturday,Afternoon,Cupcake,2.52,15,2.05,New,Rainy,No,,1.4,37.8
+2022-03-29,Friday,Evening,Croissant,4.26,92,2.91,Loyal,Rainy,No,,2.19,391.92
+2022-03-30,Sunday,Afternoon,Croissant,5.47,86,4.27,New,Cloudy,Yes,Discount 10%,4.1,470.42
+2022-03-31,Tuesday,Evening,Cupcake,4.29,69,3.41,New,Snowy,Yes,,1.97,296.01
+2022-04-01,Tuesday,Morning,Croissant,5.63,99,4.44,Loyal,Rainy,No,Discount 10%,3.41,557.37
+2022-04-02,Thursday,Afternoon,Croissant,5.77,23,2.1,Loyal,Snowy,No,Buy 1 Get 1,3.33,132.71
+2022-04-03,Tuesday,Afternoon,Smoothie,3.69,63,2.47,New,Sunny,Yes,Discount 10%,1.36,232.47
+2022-04-04,Tuesday,Afternoon,Tea,3.51,13,2.51,Loyal,Sunny,No,Buy 1 Get 1,1.11,45.63
+2022-04-05,Saturday,Morning,Tea,5.75,48,2.76,New,Rainy,No,,3.46,276.0
+2022-04-06,Thursday,Morning,Smoothie,4.7,81,3.84,Loyal,Sunny,Yes,Buy 1 Get 1,2.66,380.7
+2022-04-07,Saturday,Morning,Cupcake,2.46,34,5.01,Loyal,Snowy,No,Buy 1 Get 1,1.2,83.64
+2022-04-08,Sunday,Morning,Coffee,2.17,86,5.62,New,Cloudy,Yes,,0.76,186.62
+2022-04-09,Sunday,Morning,Coffee,4.26,41,5.34,Loyal,Rainy,Yes,Buy 1 Get 1,2.94,174.66
+2022-04-10,Saturday,Afternoon,Coffee,5.72,68,2.79,New,Sunny,No,,3.81,388.96
+2022-04-11,Sunday,Morning,Smoothie,5.38,72,3.76,Loyal,Snowy,Yes,Discount 10%,3.62,387.36
+2022-04-12,Thursday,Afternoon,Smoothie,4.7,47,2.8,Loyal,Snowy,Yes,,2.4,220.9
+2022-04-13,Monday,Morning,Croissant,2.56,62,3.06,Loyal,Sunny,Yes,,0.13,158.72
+2022-04-14,Saturday,Evening,Coffee,3.02,76,4.01,Loyal,Snowy,No,Buy 1 Get 1,1.41,229.52
+2022-04-15,Friday,Afternoon,Cupcake,5.5,37,2.27,Loyal,Snowy,No,Discount 10%,3.74,203.5
+2022-04-16,Friday,Evening,Cupcake,2.73,12,2.87,New,Rainy,No,,0.27,32.76
+2022-04-17,Tuesday,Afternoon,Coffee,3.11,89,5.74,Loyal,Snowy,Yes,Discount 10%,1.7,276.79
+2022-04-18,Sunday,Evening,Coffee,2.52,31,3.86,New,Sunny,Yes,Discount 10%,0.33,78.12
+2022-04-19,Friday,Morning,Coffee,4.7,47,3.78,Loyal,Rainy,No,Buy 1 Get 1,3.36,220.9
+2022-04-20,Tuesday,Morning,Smoothie,5.78,81,2.06,New,Sunny,No,,3.76,468.18
+2022-04-21,Monday,Morning,Smoothie,3.08,81,2.99,Loyal,Cloudy,Yes,Buy 1 Get 1,1.7,249.48
+2022-04-22,Thursday,Afternoon,Smoothie,3.9,71,5.47,New,Sunny,No,,1.57,276.9
+2022-04-23,Thursday,Evening,Tea,4.54,66,2.66,New,Sunny,No,Discount 10%,2.7,299.64
+2022-04-24,Thursday,Morning,Cupcake,6.0,15,3.66,Loyal,Rainy,No,,4.72,90.0
+2022-04-25,Friday,Evening,Cupcake,2.42,87,2.06,Loyal,Snowy,No,,1.08,210.54
+2022-04-26,Monday,Evening,Croissant,3.99,41,3.91,Loyal,Sunny,No,Discount 10%,2.25,163.59
+2022-04-27,Friday,Morning,Smoothie,3.54,19,2.08,New,Rainy,Yes,Discount 10%,1.1,67.26
+2022-04-28,Sunday,Morning,Tea,5.46,12,5.28,New,Cloudy,No,,3.31,65.52
+2022-04-29,Friday,Evening,Tea,3.9,68,5.3,Loyal,Rainy,No,Buy 1 Get 1,2.17,265.2
+2022-04-30,Monday,Morning,Cupcake,2.44,85,5.15,Loyal,Rainy,Yes,,0.93,207.4
+2022-05-01,Monday,Morning,Smoothie,4.54,58,3.13,New,Snowy,Yes,Discount 10%,2.72,263.32
+2022-05-02,Sunday,Morning,Croissant,5.08,68,5.35,New,Sunny,Yes,Buy 1 Get 1,2.96,345.44
+2022-05-03,Monday,Afternoon,Smoothie,2.01,40,4.17,Loyal,Cloudy,Yes,Discount 10%,-0.17,80.4
+2022-05-04,Monday,Evening,Coffee,5.44,78,3.5,New,Rainy,No,Discount 10%,3.95,424.32
+2022-05-05,Thursday,Evening,Smoothie,2.74,71,4.5,Loyal,Sunny,No,Buy 1 Get 1,0.66,194.54
+2022-05-06,Sunday,Afternoon,Coffee,4.21,61,2.05,Loyal,Sunny,No,Discount 10%,2.22,256.81
+2022-05-07,Wednesday,Evening,Coffee,3.66,98,2.57,Loyal,Rainy,No,Discount 10%,1.22,358.68
+2022-05-08,Wednesday,Morning,Croissant,4.88,50,4.97,New,Sunny,Yes,Discount 10%,2.48,244.0
+2022-05-09,Monday,Evening,Cupcake,3.48,40,2.98,New,Rainy,Yes,Discount 10%,1.3,139.2
+2022-05-10,Wednesday,Morning,Smoothie,5.48,94,4.39,New,Rainy,No,Discount 10%,3.39,515.12
+2022-05-11,Wednesday,Afternoon,Coffee,4.92,93,3.54,New,Rainy,No,Discount 10%,3.51,457.56
+2022-05-12,Monday,Morning,Smoothie,4.59,31,5.42,Loyal,Cloudy,No,Discount 10%,2.32,142.29
+2022-05-13,Wednesday,Evening,Cupcake,5.18,13,5.81,New,Rainy,No,Discount 10%,3.54,67.34
+2022-05-14,Friday,Evening,Cupcake,5.02,22,5.53,Loyal,Snowy,Yes,Discount 10%,3.61,110.44
+2022-05-15,Tuesday,Evening,Tea,2.14,54,3.08,Loyal,Sunny,No,,0.56,115.56
+2022-05-16,Sunday,Afternoon,Cupcake,3.58,51,2.78,Loyal,Cloudy,Yes,,1.33,182.58
+2022-05-17,Tuesday,Afternoon,Croissant,5.72,58,3.9,New,Sunny,Yes,Discount 10%,4.5,331.76
+2022-05-18,Monday,Evening,Coffee,2.5,29,2.03,Loyal,Cloudy,Yes,,0.82,72.5
+2022-05-19,Thursday,Morning,Tea,4.95,86,2.1,Loyal,Snowy,Yes,Buy 1 Get 1,3.21,425.7
+2022-05-20,Sunday,Afternoon,Croissant,5.9,90,4.21,New,Cloudy,No,,4.85,531.0
+2022-05-21,Monday,Evening,Smoothie,2.21,63,4.08,Loyal,Cloudy,No,Discount 10%,0.92,139.23
+2022-05-22,Thursday,Evening,Coffee,4.73,45,5.98,New,Cloudy,No,Discount 10%,2.49,212.85
+2022-05-23,Tuesday,Afternoon,Cupcake,3.87,10,2.81,New,Sunny,No,,1.62,38.7
+2022-05-24,Monday,Afternoon,Coffee,4.32,24,3.03,New,Rainy,Yes,Discount 10%,2.88,103.68
+2022-05-25,Sunday,Afternoon,Smoothie,2.34,86,2.45,Loyal,Sunny,Yes,Buy 1 Get 1,0.03,201.24
+2022-05-26,Sunday,Morning,Tea,2.17,26,5.67,New,Rainy,Yes,Buy 1 Get 1,0.01,56.42
+2022-05-27,Saturday,Morning,Tea,4.67,33,5.11,New,Sunny,No,Discount 10%,3.04,154.11
+2022-05-28,Friday,Evening,Tea,5.29,67,5.29,New,Snowy,Yes,Buy 1 Get 1,3.17,354.43
+2022-05-29,Wednesday,Afternoon,Cupcake,5.13,81,5.61,New,Snowy,Yes,Buy 1 Get 1,2.69,415.53
+2022-05-30,Thursday,Morning,Croissant,4.18,32,4.1,Loyal,Cloudy,Yes,,2.49,133.76
+2022-05-31,Saturday,Afternoon,Croissant,2.4,55,3.8,New,Snowy,Yes,Buy 1 Get 1,1.04,132.0
+2022-06-01,Wednesday,Evening,Coffee,4.75,81,3.32,Loyal,Cloudy,No,,2.34,384.75
+2022-06-02,Wednesday,Morning,Cupcake,2.97,17,4.36,New,Rainy,Yes,Discount 10%,1.06,50.49
+2022-06-03,Monday,Morning,Tea,5.64,68,3.82,Loyal,Snowy,Yes,,4.48,383.52
+2022-06-04,Wednesday,Morning,Tea,5.35,99,3.81,New,Rainy,No,Discount 10%,3.49,529.65
+2022-06-05,Friday,Evening,Smoothie,4.84,68,5.75,Loyal,Sunny,No,Discount 10%,3.09,329.12
+2022-06-06,Sunday,Afternoon,Smoothie,5.8,22,5.94,New,Rainy,No,Discount 10%,3.52,127.6
+2022-06-07,Saturday,Morning,Tea,2.13,48,5.19,Loyal,Sunny,Yes,Discount 10%,0.33,102.24
+2022-06-08,Wednesday,Evening,Tea,4.94,37,5.03,Loyal,Rainy,Yes,Discount 10%,3.56,182.78
+2022-06-09,Monday,Afternoon,Cupcake,3.32,98,4.72,Loyal,Rainy,Yes,,1.31,325.36
+2022-06-10,Friday,Evening,Croissant,5.62,70,2.66,New,Snowy,Yes,Discount 10%,3.81,393.4
+2022-06-11,Tuesday,Afternoon,Smoothie,3.07,25,2.24,Loyal,Rainy,No,Buy 1 Get 1,1.72,76.75
+2022-06-12,Sunday,Evening,Croissant,4.9,11,4.76,Loyal,Snowy,Yes,Buy 1 Get 1,3.04,53.9
+2022-06-13,Sunday,Afternoon,Cupcake,5.51,91,4.92,Loyal,Snowy,Yes,Discount 10%,3.28,501.41
+2022-06-14,Saturday,Morning,Tea,2.17,26,2.19,Loyal,Cloudy,No,Buy 1 Get 1,1.13,56.42
+2022-06-15,Sunday,Afternoon,Croissant,3.59,39,5.71,New,Cloudy,No,,1.64,140.01
+2022-06-16,Wednesday,Evening,Tea,5.05,22,2.36,Loyal,Sunny,No,,3.53,111.1
+2022-06-17,Monday,Evening,Tea,3.82,91,3.14,Loyal,Rainy,Yes,Discount 10%,2.38,347.62
+2022-06-18,Sunday,Afternoon,Coffee,3.07,22,4.69,Loyal,Sunny,Yes,Discount 10%,1.48,67.54
+2022-06-19,Sunday,Morning,Croissant,2.88,52,2.68,New,Rainy,Yes,Discount 10%,1.37,149.76
+2022-06-20,Tuesday,Morning,Croissant,2.53,94,2.22,Loyal,Cloudy,Yes,Buy 1 Get 1,0.28,237.82
+2022-06-21,Tuesday,Afternoon,Tea,5.43,30,3.32,Loyal,Cloudy,Yes,Buy 1 Get 1,4.02,162.9
+2022-06-22,Thursday,Afternoon,Cupcake,4.3,64,5.06,Loyal,Rainy,No,,2.2,275.2
+2022-06-23,Friday,Evening,Coffee,2.31,90,3.65,Loyal,Rainy,No,Buy 1 Get 1,1.17,207.9
+2022-06-24,Wednesday,Morning,Tea,3.53,49,4.61,New,Cloudy,Yes,,1.1,172.97
+2022-06-25,Sunday,Afternoon,Smoothie,3.47,92,4.32,Loyal,Cloudy,Yes,Buy 1 Get 1,1.54,319.24
+2022-06-26,Sunday,Morning,Smoothie,2.73,24,2.09,Loyal,Sunny,Yes,,0.67,65.52
+2022-06-27,Monday,Afternoon,Coffee,3.74,82,5.95,New,Cloudy,Yes,Discount 10%,2.29,306.68
+2022-06-28,Thursday,Afternoon,Cupcake,3.33,61,2.17,New,Rainy,Yes,Buy 1 Get 1,1.71,203.13
+2022-06-29,Friday,Morning,Tea,3.37,83,5.87,New,Sunny,No,,2.03,279.71
+2022-06-30,Thursday,Afternoon,Croissant,4.96,62,4.2,Loyal,Rainy,No,Buy 1 Get 1,2.56,307.52
+2022-07-01,Saturday,Afternoon,Coffee,2.89,96,5.85,New,Snowy,No,Discount 10%,1.16,277.44
+2022-07-02,Friday,Evening,Cupcake,4.57,61,2.46,Loyal,Sunny,Yes,,2.62,278.77
+2022-07-03,Sunday,Afternoon,Croissant,4.28,39,3.96,New,Rainy,Yes,Buy 1 Get 1,2.18,166.92
+2022-07-04,Sunday,Afternoon,Smoothie,4.27,42,2.68,Loyal,Cloudy,No,Buy 1 Get 1,2.71,179.34
+2022-07-05,Friday,Afternoon,Smoothie,4.65,66,2.2,New,Snowy,No,Discount 10%,2.57,306.9
+2022-07-06,Sunday,Evening,Croissant,4.19,61,4.47,Loyal,Rainy,Yes,Discount 10%,2.18,255.59
+2022-07-07,Wednesday,Morning,Coffee,5.52,18,2.83,New,Sunny,No,,3.46,99.36
+2022-07-08,Friday,Evening,Smoothie,4.7,63,4.35,Loyal,Rainy,No,Buy 1 Get 1,2.97,296.1
+2022-07-09,Thursday,Evening,Tea,4.19,10,2.45,Loyal,Snowy,Yes,Buy 1 Get 1,2.62,41.9
+2022-07-10,Friday,Morning,Croissant,5.32,53,3.33,Loyal,Sunny,No,Discount 10%,3.99,281.96
+2022-07-11,Sunday,Evening,Croissant,4.42,84,5.13,Loyal,Snowy,No,Discount 10%,2.18,371.28
+2022-07-12,Wednesday,Morning,Smoothie,3.16,89,3.75,Loyal,Rainy,No,,1.25,281.24
+2022-07-13,Wednesday,Evening,Coffee,2.83,18,4.51,Loyal,Cloudy,Yes,Buy 1 Get 1,1.16,50.94
+2022-07-14,Saturday,Morning,Tea,2.61,41,4.59,Loyal,Cloudy,No,Buy 1 Get 1,0.19,107.01
+2022-07-15,Thursday,Afternoon,Coffee,5.6,24,5.38,Loyal,Rainy,No,,4.53,134.4
+2022-07-16,Tuesday,Evening,Cupcake,4.84,21,3.3,New,Rainy,No,,2.56,101.64
+2022-07-17,Tuesday,Evening,Cupcake,5.75,87,4.75,Loyal,Rainy,Yes,Discount 10%,3.25,500.25
+2022-07-18,Friday,Evening,Smoothie,4.41,66,5.85,Loyal,Sunny,Yes,Discount 10%,2.08,291.06
+2022-07-19,Saturday,Evening,Smoothie,3.89,17,4.92,New,Snowy,No,,1.67,66.13
+2022-07-20,Monday,Afternoon,Smoothie,2.24,81,3.96,Loyal,Snowy,Yes,,0.68,181.44
+2022-07-21,Friday,Evening,Cupcake,4.69,36,4.52,New,Snowy,No,Buy 1 Get 1,3.34,168.84
+2022-07-22,Saturday,Afternoon,Coffee,4.33,71,4.96,Loyal,Rainy,Yes,,2.23,307.43
+2022-07-23,Thursday,Afternoon,Coffee,5.96,21,4.45,New,Snowy,Yes,,4.5,125.16
+2022-07-24,Thursday,Afternoon,Smoothie,2.96,74,2.07,New,Rainy,No,Buy 1 Get 1,1.7,219.04
+2022-07-25,Thursday,Afternoon,Tea,4.12,51,2.78,Loyal,Sunny,No,,1.94,210.12
+2022-07-26,Thursday,Morning,Coffee,4.6,71,5.24,New,Cloudy,No,Discount 10%,3.13,326.6
+2022-07-27,Thursday,Morning,Cupcake,4.58,20,3.09,Loyal,Rainy,Yes,Discount 10%,2.21,91.6
+2022-07-28,Saturday,Evening,Croissant,4.25,52,4.93,Loyal,Rainy,No,Buy 1 Get 1,1.99,221.0
+2022-07-29,Saturday,Morning,Croissant,5.11,26,3.49,Loyal,Cloudy,Yes,,2.84,132.86
+2022-07-30,Wednesday,Morning,Croissant,2.82,41,4.09,Loyal,Cloudy,Yes,Discount 10%,0.66,115.62
+2022-07-31,Tuesday,Evening,Tea,4.9,94,2.27,New,Sunny,No,Discount 10%,2.58,460.6
+2022-08-01,Sunday,Evening,Smoothie,4.48,94,2.72,Loyal,Snowy,Yes,Discount 10%,2.27,421.12
+2022-08-02,Thursday,Evening,Cupcake,5.58,49,5.83,New,Rainy,No,Discount 10%,3.68,273.42
+2022-08-03,Monday,Morning,Tea,5.39,32,5.56,New,Snowy,Yes,,3.95,172.48
+2022-08-04,Sunday,Morning,Cupcake,3.26,65,4.61,Loyal,Rainy,No,,0.93,211.9
+2022-08-05,Saturday,Evening,Cupcake,3.1,15,3.84,Loyal,Sunny,Yes,,0.84,46.5
+2022-08-06,Monday,Afternoon,Smoothie,5.93,95,4.7,Loyal,Cloudy,Yes,,4.22,563.35
+2022-08-07,Monday,Evening,Croissant,4.11,59,4.47,Loyal,Sunny,No,Discount 10%,3.05,242.49
+2022-08-08,Monday,Afternoon,Smoothie,5.63,46,4.27,New,Cloudy,Yes,Buy 1 Get 1,3.67,258.98
+2022-08-09,Wednesday,Afternoon,Tea,2.66,73,2.24,Loyal,Snowy,No,Buy 1 Get 1,1.58,194.18
+2022-08-10,Saturday,Evening,Tea,4.57,63,4.53,New,Snowy,Yes,Discount 10%,2.18,287.91
+2022-08-11,Monday,Evening,Tea,5.24,81,5.08,Loyal,Sunny,Yes,Discount 10%,2.8,424.44
+2022-08-12,Thursday,Evening,Smoothie,5.79,58,5.98,Loyal,Cloudy,Yes,Buy 1 Get 1,4.51,335.82
+2022-08-13,Friday,Morning,Cupcake,3.35,20,2.04,Loyal,Sunny,No,Buy 1 Get 1,1.34,67.0
+2022-08-14,Monday,Afternoon,Cupcake,4.9,97,4.92,Loyal,Cloudy,No,Discount 10%,3.76,475.3
+2022-08-15,Wednesday,Morning,Coffee,4.16,58,4.29,New,Cloudy,No,Discount 10%,2.07,241.28
+2022-08-16,Sunday,Morning,Tea,2.24,30,3.74,New,Snowy,No,,0.72,67.2
+2022-08-17,Saturday,Evening,Cupcake,4.76,75,2.51,Loyal,Snowy,No,,2.74,357.0
+2022-08-18,Wednesday,Morning,Coffee,4.76,72,3.64,New,Cloudy,Yes,Buy 1 Get 1,3.2,342.72
+2022-08-19,Monday,Evening,Cupcake,5.72,92,3.42,New,Cloudy,Yes,Discount 10%,4.5,526.24
+2022-08-20,Saturday,Afternoon,Tea,3.99,37,3.21,Loyal,Cloudy,No,Buy 1 Get 1,2.38,147.63
+2022-08-21,Friday,Evening,Croissant,2.92,26,4.92,Loyal,Snowy,Yes,,1.75,75.92
+2022-08-22,Monday,Morning,Tea,2.18,15,4.8,New,Snowy,Yes,,0.31,32.7
+2022-08-23,Wednesday,Morning,Smoothie,3.66,28,4.36,New,Rainy,Yes,Buy 1 Get 1,2.6,102.48
+2022-08-24,Tuesday,Evening,Cupcake,3.21,65,5.75,New,Cloudy,Yes,,1.42,208.65
+2022-08-25,Thursday,Evening,Cupcake,5.04,37,3.4,New,Rainy,No,Discount 10%,2.71,186.48
+2022-08-26,Sunday,Morning,Smoothie,3.42,75,2.98,Loyal,Cloudy,Yes,Buy 1 Get 1,1.16,256.5
+2022-08-27,Wednesday,Afternoon,Smoothie,5.8,47,4.62,Loyal,Snowy,No,Discount 10%,3.48,272.6
+2022-08-28,Saturday,Afternoon,Croissant,5.85,46,2.8,New,Rainy,No,Discount 10%,3.47,269.1
+2022-08-29,Monday,Evening,Cupcake,4.48,77,3.26,Loyal,Rainy,Yes,,3.32,344.96
+2022-08-30,Thursday,Afternoon,Cupcake,5.71,95,2.9,New,Sunny,No,Discount 10%,4.52,542.45
+2022-08-31,Monday,Morning,Croissant,5.04,99,2.28,New,Cloudy,Yes,Buy 1 Get 1,3.2,498.96
+2022-09-01,Saturday,Evening,Coffee,4.19,58,5.31,Loyal,Snowy,Yes,Discount 10%,1.85,243.02
+2022-09-02,Monday,Morning,Croissant,2.72,52,3.02,New,Sunny,Yes,Discount 10%,0.26,141.44
+2022-09-03,Tuesday,Morning,Tea,3.83,45,3.89,New,Sunny,No,Discount 10%,2.76,172.35
+2022-09-04,Thursday,Afternoon,Cupcake,4.24,67,2.17,Loyal,Cloudy,No,Discount 10%,2.71,284.08
+2022-09-05,Thursday,Evening,Smoothie,5.46,22,4.8,Loyal,Sunny,No,Discount 10%,4.14,120.12
+2022-09-06,Saturday,Evening,Tea,3.93,61,3.32,New,Cloudy,Yes,,1.8,239.73
+2022-09-07,Sunday,Afternoon,Cupcake,5.59,67,4.98,New,Sunny,Yes,Buy 1 Get 1,3.63,374.53
+2022-09-08,Tuesday,Morning,Croissant,4.7,41,3.65,Loyal,Cloudy,Yes,,3.52,192.7
+2022-09-09,Wednesday,Morning,Tea,2.55,90,2.78,New,Snowy,No,Buy 1 Get 1,0.82,229.5
+2022-09-10,Monday,Morning,Cupcake,5.98,69,4.05,New,Cloudy,Yes,Buy 1 Get 1,3.95,412.62
+2022-09-11,Friday,Morning,Coffee,4.11,92,2.52,Loyal,Cloudy,Yes,Buy 1 Get 1,1.94,378.12
+2022-09-12,Monday,Evening,Coffee,3.57,67,3.76,Loyal,Rainy,No,Buy 1 Get 1,2.54,239.19
+2022-09-13,Monday,Evening,Smoothie,4.64,65,3.27,Loyal,Snowy,No,Buy 1 Get 1,2.3,301.6
+2022-09-14,Wednesday,Afternoon,Cupcake,2.44,37,5.65,Loyal,Snowy,No,Discount 10%,0.59,90.28
+2022-09-15,Monday,Afternoon,Coffee,4.55,10,2.24,Loyal,Snowy,Yes,,2.33,45.5
+2022-09-16,Tuesday,Evening,Croissant,3.99,51,4.78,Loyal,Sunny,Yes,,1.78,203.49
+2022-09-17,Tuesday,Evening,Cupcake,3.63,91,2.73,New,Rainy,Yes,Discount 10%,2.35,330.33
+2022-09-18,Thursday,Morning,Croissant,5.81,57,3.28,New,Snowy,No,Buy 1 Get 1,4.64,331.17
+2022-09-19,Saturday,Morning,Croissant,4.09,49,3.66,Loyal,Sunny,No,,2.01,200.41
+2022-09-20,Sunday,Afternoon,Coffee,2.88,72,5.63,Loyal,Sunny,No,Discount 10%,1.65,207.36
+2022-09-21,Friday,Evening,Cupcake,3.84,85,2.97,New,Sunny,No,Discount 10%,1.57,326.4
+2022-09-22,Monday,Afternoon,Tea,5.68,81,2.37,New,Rainy,Yes,,3.59,460.08
+2022-09-23,Monday,Evening,Coffee,2.7,97,3.27,New,Sunny,Yes,,0.44,261.9
+2022-09-24,Wednesday,Morning,Coffee,2.86,89,2.42,Loyal,Rainy,Yes,Buy 1 Get 1,1.41,254.54
+2022-09-25,Saturday,Afternoon,Cupcake,2.05,13,2.51,Loyal,Cloudy,Yes,Buy 1 Get 1,0.58,26.65
+2022-09-26,Tuesday,Afternoon,Cupcake,2.06,47,4.3,New,Sunny,Yes,,0.05,96.82
+2022-09-27,Friday,Evening,Croissant,5.32,36,2.24,Loyal,Snowy,Yes,Buy 1 Get 1,4.27,191.52
+2022-09-28,Thursday,Morning,Cupcake,4.93,18,2.12,Loyal,Sunny,Yes,Discount 10%,2.84,88.74
+2022-09-29,Tuesday,Afternoon,Croissant,3.42,25,4.86,Loyal,Cloudy,Yes,Buy 1 Get 1,1.17,85.5
+2022-09-30,Saturday,Morning,Coffee,4.79,65,3.45,New,Cloudy,No,Buy 1 Get 1,3.17,311.35
+2022-10-01,Sunday,Afternoon,Smoothie,3.58,85,2.5,New,Sunny,No,Discount 10%,1.43,304.3
+2022-10-02,Thursday,Morning,Tea,5.81,40,3.01,Loyal,Cloudy,Yes,Buy 1 Get 1,4.55,232.4
+2022-10-03,Sunday,Evening,Coffee,5.87,97,4.57,Loyal,Rainy,No,Discount 10%,4.39,569.39
+2022-10-04,Wednesday,Afternoon,Cupcake,3.57,23,3.1,Loyal,Rainy,Yes,Buy 1 Get 1,1.11,82.11
+2022-10-05,Wednesday,Afternoon,Tea,5.42,34,3.98,Loyal,Sunny,Yes,,2.94,184.28
+2022-10-06,Monday,Morning,Smoothie,5.09,43,2.49,Loyal,Rainy,No,Buy 1 Get 1,3.32,218.87
+2022-10-07,Sunday,Morning,Smoothie,3.24,76,4.35,New,Rainy,Yes,,0.84,246.24
+2022-10-08,Saturday,Afternoon,Croissant,2.93,33,3.26,Loyal,Snowy,Yes,,1.15,96.69
+2022-10-09,Friday,Evening,Tea,3.83,82,4.51,Loyal,Sunny,Yes,,2.39,314.06
+2022-10-10,Thursday,Morning,Croissant,5.13,35,5.23,Loyal,Cloudy,Yes,,3.73,179.55
+2022-10-11,Tuesday,Morning,Coffee,5.84,29,4.45,New,Sunny,Yes,,3.45,169.36
+2022-10-12,Saturday,Morning,Tea,5.05,73,3.18,New,Rainy,Yes,Discount 10%,3.79,368.65
+2022-10-13,Saturday,Afternoon,Coffee,5.42,19,3.02,Loyal,Snowy,Yes,Discount 10%,3.55,102.98
+2022-10-14,Wednesday,Afternoon,Croissant,4.41,92,3.31,New,Sunny,No,Discount 10%,2.58,405.72
+2022-10-15,Sunday,Afternoon,Tea,5.34,76,2.66,New,Sunny,No,,3.23,405.84
+2022-10-16,Monday,Afternoon,Croissant,5.14,33,2.72,New,Rainy,Yes,Buy 1 Get 1,3.39,169.62
+2022-10-17,Monday,Evening,Tea,3.51,14,5.16,New,Rainy,No,Discount 10%,2.1,49.14
+2022-10-18,Thursday,Evening,Croissant,4.21,76,3.54,New,Sunny,Yes,Buy 1 Get 1,2.96,319.96
+2022-10-19,Wednesday,Afternoon,Smoothie,5.22,67,3.74,New,Rainy,Yes,Buy 1 Get 1,3.29,349.74
+2022-10-20,Saturday,Evening,Croissant,2.18,36,4.38,Loyal,Rainy,Yes,,0.1,78.48
+2022-10-21,Friday,Morning,Smoothie,5.23,89,4.36,New,Rainy,Yes,,3.38,465.47
+2022-10-22,Wednesday,Morning,Croissant,2.71,24,2.27,New,Rainy,No,,0.6,65.04
+2022-10-23,Thursday,Morning,Tea,4.06,44,5.33,Loyal,Rainy,No,Discount 10%,2.85,178.64
+2022-10-24,Thursday,Afternoon,Tea,5.23,85,2.71,Loyal,Snowy,No,,2.91,444.55
+2022-10-25,Wednesday,Morning,Tea,3.02,62,4.89,Loyal,Rainy,No,Discount 10%,1.15,187.24
+2022-10-26,Thursday,Evening,Cupcake,2.98,53,5.09,Loyal,Cloudy,Yes,Discount 10%,1.79,157.94
+2022-10-27,Wednesday,Afternoon,Coffee,3.61,35,4.86,New,Sunny,No,Discount 10%,1.92,126.35
+2022-10-28,Tuesday,Evening,Tea,5.58,56,4.32,New,Snowy,Yes,Discount 10%,3.31,312.48
+2022-10-29,Wednesday,Morning,Smoothie,2.0,43,2.06,New,Snowy,Yes,,-0.35,86.0
+2022-10-30,Sunday,Morning,Tea,5.61,96,3.44,New,Rainy,No,Discount 10%,4.21,538.56
+2022-10-31,Wednesday,Morning,Cupcake,2.62,59,4.42,Loyal,Sunny,Yes,,0.55,154.58
+2022-11-01,Thursday,Afternoon,Smoothie,5.96,93,3.55,New,Cloudy,No,,4.81,554.28
+2022-11-02,Sunday,Evening,Cupcake,5.82,21,5.45,New,Rainy,No,Discount 10%,4.77,122.22
+2022-11-03,Thursday,Afternoon,Smoothie,3.98,96,3.24,Loyal,Sunny,No,,2.14,382.08
+2022-11-04,Monday,Afternoon,Croissant,4.05,13,3.17,New,Rainy,No,Buy 1 Get 1,2.01,52.65
+2022-11-05,Monday,Morning,Coffee,3.93,96,3.06,New,Rainy,No,,1.74,377.28
+2022-11-06,Sunday,Afternoon,Coffee,4.54,57,3.33,New,Rainy,Yes,,3.03,258.78
+2022-11-07,Tuesday,Afternoon,Cupcake,2.36,64,4.23,New,Rainy,No,Discount 10%,1.35,151.04
+2022-11-08,Monday,Morning,Coffee,2.13,10,4.83,Loyal,Rainy,No,Discount 10%,0.41,21.3
+2022-11-09,Wednesday,Afternoon,Cupcake,2.23,98,4.65,Loyal,Rainy,Yes,,1.21,218.54
+2022-11-10,Thursday,Morning,Cupcake,3.78,75,5.23,Loyal,Rainy,No,Discount 10%,2.64,283.5
+2022-11-11,Monday,Morning,Cupcake,3.1,39,5.54,Loyal,Cloudy,No,Buy 1 Get 1,1.61,120.9
+2022-11-12,Monday,Morning,Coffee,4.49,12,5.26,Loyal,Snowy,Yes,Buy 1 Get 1,2.83,53.88
+2022-11-13,Tuesday,Morning,Cupcake,5.97,30,2.08,New,Cloudy,Yes,Discount 10%,4.55,179.1
+2022-11-14,Sunday,Afternoon,Coffee,3.55,98,4.94,New,Rainy,No,,1.68,347.9
+2022-11-15,Sunday,Morning,Cupcake,4.3,93,2.83,Loyal,Rainy,Yes,Buy 1 Get 1,3.22,399.9
+2022-11-16,Saturday,Morning,Tea,3.66,58,2.53,Loyal,Cloudy,No,Buy 1 Get 1,2.44,212.28
+2022-11-17,Tuesday,Afternoon,Cupcake,5.39,95,4.55,Loyal,Cloudy,Yes,,3.35,512.05
+2022-11-18,Wednesday,Afternoon,Smoothie,5.61,94,3.28,New,Snowy,No,Discount 10%,4.4,527.34
+2022-11-19,Sunday,Evening,Cupcake,5.51,71,2.23,Loyal,Cloudy,No,Buy 1 Get 1,3.55,391.21
+2022-11-20,Thursday,Afternoon,Croissant,5.9,47,2.55,New,Snowy,No,,4.82,277.3
+2022-11-21,Tuesday,Afternoon,Cupcake,2.11,24,2.0,New,Rainy,Yes,,0.5,50.64
+2022-11-22,Monday,Evening,Smoothie,5.36,61,5.61,New,Sunny,No,Buy 1 Get 1,4.09,326.96
+2022-11-23,Thursday,Afternoon,Smoothie,5.01,88,2.1,New,Sunny,Yes,Discount 10%,3.85,440.88
+2022-11-24,Thursday,Afternoon,Coffee,2.91,55,2.84,Loyal,Sunny,No,Buy 1 Get 1,1.06,160.05
+2022-11-25,Monday,Afternoon,Tea,5.83,34,3.67,New,Sunny,No,,3.44,198.22
+2022-11-26,Tuesday,Afternoon,Cupcake,2.59,30,3.43,New,Rainy,No,Buy 1 Get 1,1.51,77.7
+2022-11-27,Monday,Evening,Coffee,4.72,97,5.65,Loyal,Sunny,No,Discount 10%,3.09,457.84
+2022-11-28,Saturday,Afternoon,Tea,2.9,14,2.16,New,Cloudy,No,,0.84,40.6
+2022-11-29,Thursday,Afternoon,Cupcake,3.73,79,4.05,New,Cloudy,Yes,Discount 10%,2.04,294.67
+2022-11-30,Friday,Evening,Croissant,4.88,56,4.72,New,Sunny,Yes,Buy 1 Get 1,2.67,273.28
+2022-12-01,Friday,Morning,Cupcake,4.25,96,5.73,Loyal,Cloudy,Yes,Buy 1 Get 1,2.98,408.0
+2022-12-02,Wednesday,Evening,Smoothie,3.71,77,4.48,New,Snowy,No,Discount 10%,1.27,285.67
+2022-12-03,Sunday,Morning,Smoothie,3.31,27,5.22,New,Rainy,No,Buy 1 Get 1,1.73,89.37
+2022-12-04,Monday,Evening,Croissant,5.36,30,2.33,Loyal,Sunny,Yes,Discount 10%,3.85,160.8
+2022-12-05,Monday,Evening,Coffee,2.58,95,3.54,Loyal,Sunny,No,Buy 1 Get 1,0.27,245.1
+2022-12-06,Wednesday,Afternoon,Tea,3.72,32,3.5,New,Rainy,No,Discount 10%,1.87,119.04
+2022-12-07,Wednesday,Morning,Cupcake,5.62,73,5.55,New,Cloudy,No,Discount 10%,3.85,410.26
+2022-12-08,Wednesday,Afternoon,Smoothie,5.38,76,2.61,Loyal,Rainy,Yes,,3.29,408.88
+2022-12-09,Thursday,Morning,Coffee,3.6,49,2.61,New,Rainy,Yes,,1.73,176.4
+2022-12-10,Saturday,Evening,Croissant,5.05,19,3.31,Loyal,Cloudy,Yes,Discount 10%,3.81,95.95
+2022-12-11,Monday,Evening,Smoothie,5.29,98,2.22,New,Rainy,Yes,Buy 1 Get 1,3.28,518.42
+2022-12-12,Thursday,Morning,Croissant,5.56,61,2.73,Loyal,Cloudy,Yes,Buy 1 Get 1,4.36,339.16
+2022-12-13,Wednesday,Afternoon,Cupcake,4.18,81,5.86,New,Cloudy,No,Buy 1 Get 1,1.97,338.58
+2022-12-14,Monday,Afternoon,Tea,2.82,84,3.71,Loyal,Rainy,No,Discount 10%,0.34,236.88
+2022-12-15,Thursday,Afternoon,Smoothie,3.02,70,4.53,Loyal,Snowy,No,Discount 10%,1.45,211.4
+2022-12-16,Saturday,Afternoon,Smoothie,3.18,73,4.9,Loyal,Cloudy,No,Discount 10%,1.51,232.14
+2022-12-17,Thursday,Evening,Cupcake,4.38,14,3.47,Loyal,Rainy,Yes,Discount 10%,3.31,61.32
+2022-12-18,Saturday,Evening,Coffee,2.13,62,2.59,Loyal,Cloudy,Yes,,1.11,132.06
+2022-12-19,Wednesday,Evening,Tea,4.54,64,2.83,New,Snowy,No,Discount 10%,2.16,290.56
+2022-12-20,Saturday,Evening,Smoothie,3.46,46,3.25,New,Snowy,Yes,Buy 1 Get 1,2.27,159.16
+2022-12-21,Monday,Evening,Tea,3.18,65,4.54,Loyal,Sunny,No,,1.51,206.7
+2022-12-22,Wednesday,Afternoon,Smoothie,5.52,68,3.59,New,Cloudy,No,Buy 1 Get 1,3.3,375.36
+2022-12-23,Monday,Afternoon,Tea,3.84,78,2.03,New,Cloudy,No,Discount 10%,1.51,299.52
+2022-12-24,Friday,Afternoon,Croissant,2.38,82,4.09,New,Rainy,No,,0.6,195.16
+2022-12-25,Tuesday,Afternoon,Smoothie,5.31,68,5.69,New,Cloudy,Yes,Discount 10%,3.46,361.08
+2022-12-26,Saturday,Evening,Tea,2.19,11,5.25,New,Sunny,No,,0.19,24.09
+2022-12-27,Tuesday,Evening,Coffee,4.91,74,5.3,New,Snowy,Yes,Buy 1 Get 1,2.47,363.34
+2022-12-28,Tuesday,Evening,Croissant,5.1,69,5.18,Loyal,Snowy,No,Discount 10%,3.2,351.9
+2022-12-29,Saturday,Morning,Croissant,3.41,60,3.29,New,Sunny,No,Discount 10%,1.57,204.6
+2022-12-30,Wednesday,Afternoon,Coffee,5.3,39,5.06,New,Cloudy,No,,4.28,206.7
+2022-12-31,Friday,Afternoon,Tea,4.06,20,2.57,New,Cloudy,No,,2.94,81.2
+2023-01-01,Monday,Evening,Cupcake,3.85,85,4.63,Loyal,Sunny,Yes,Discount 10%,1.98,327.25
+2023-01-02,Thursday,Afternoon,Coffee,2.18,48,4.57,New,Rainy,No,,-0.22,104.64
+2023-01-03,Monday,Afternoon,Tea,3.16,99,2.1,New,Snowy,Yes,Discount 10%,0.86,312.84
+2023-01-04,Thursday,Evening,Coffee,5.72,86,5.15,New,Sunny,No,,3.25,491.92
+2023-01-05,Monday,Morning,Coffee,3.57,81,5.61,Loyal,Sunny,No,Buy 1 Get 1,1.78,289.17
+2023-01-06,Saturday,Morning,Smoothie,4.19,72,3.07,New,Cloudy,No,,2.01,301.68
+2023-01-07,Friday,Morning,Tea,4.13,73,5.25,Loyal,Snowy,Yes,Buy 1 Get 1,1.87,301.49
+2023-01-08,Thursday,Evening,Cupcake,4.36,70,2.33,New,Cloudy,No,,2.39,305.2
+2023-01-09,Sunday,Afternoon,Smoothie,2.25,63,4.4,Loyal,Sunny,No,,0.74,141.75
+2023-01-10,Wednesday,Evening,Coffee,3.45,82,3.94,Loyal,Rainy,No,Discount 10%,1.75,282.9
+2023-01-11,Monday,Evening,Coffee,4.89,67,4.18,Loyal,Snowy,No,,2.6,327.63
+2023-01-12,Monday,Afternoon,Coffee,2.8,94,5.7,New,Sunny,No,,1.35,263.2
+2023-01-13,Thursday,Morning,Tea,2.81,65,5.49,Loyal,Sunny,Yes,Buy 1 Get 1,0.42,182.65
+2023-01-14,Wednesday,Morning,Tea,2.04,43,5.14,Loyal,Rainy,Yes,,0.7,87.72
+2023-01-15,Wednesday,Evening,Smoothie,3.75,40,3.09,Loyal,Sunny,No,Discount 10%,1.63,150.0
+2023-01-16,Saturday,Morning,Cupcake,5.53,61,5.65,Loyal,Sunny,No,Buy 1 Get 1,3.58,337.33
+2023-01-17,Sunday,Evening,Smoothie,2.21,98,2.39,New,Snowy,Yes,Discount 10%,0.09,216.58
+2023-01-18,Saturday,Evening,Croissant,2.76,85,5.41,New,Snowy,No,Discount 10%,1.1,234.6
+2023-01-19,Saturday,Afternoon,Coffee,3.24,10,3.31,New,Snowy,Yes,Discount 10%,0.84,32.4
+2023-01-20,Saturday,Afternoon,Coffee,4.93,64,2.22,New,Cloudy,No,Discount 10%,2.98,315.52
+2023-01-21,Saturday,Afternoon,Coffee,4.56,31,4.68,Loyal,Rainy,No,Buy 1 Get 1,3.13,141.36
+2023-01-22,Saturday,Evening,Smoothie,3.66,49,2.93,New,Snowy,Yes,,1.7,179.34
+2023-01-23,Friday,Afternoon,Smoothie,5.04,10,2.97,Loyal,Cloudy,No,Discount 10%,3.61,50.4
+2023-01-24,Wednesday,Morning,Coffee,4.44,74,3.22,New,Cloudy,Yes,Buy 1 Get 1,3.0,328.56
+2023-01-25,Saturday,Morning,Smoothie,5.58,72,2.25,New,Rainy,Yes,Discount 10%,3.98,401.76
+2023-01-26,Wednesday,Evening,Tea,5.27,63,2.71,New,Rainy,Yes,,2.99,332.01
+2023-01-27,Wednesday,Evening,Tea,3.01,51,2.02,Loyal,Sunny,No,Buy 1 Get 1,1.26,153.51
+2023-01-28,Tuesday,Afternoon,Smoothie,3.09,30,3.78,New,Cloudy,Yes,Buy 1 Get 1,1.07,92.7
+2023-01-29,Friday,Evening,Coffee,2.5,88,2.34,New,Snowy,Yes,,0.91,220.0
+2023-01-30,Saturday,Evening,Smoothie,3.35,90,4.73,New,Rainy,No,Buy 1 Get 1,1.95,301.5
+2023-01-31,Monday,Morning,Smoothie,6.0,31,2.94,Loyal,Cloudy,No,,3.57,186.0
+2023-02-01,Thursday,Morning,Smoothie,3.62,47,5.77,New,Snowy,No,Buy 1 Get 1,1.71,170.14
+2023-02-02,Sunday,Afternoon,Croissant,2.88,89,5.49,New,Cloudy,No,Buy 1 Get 1,0.48,256.32
+2023-02-03,Monday,Evening,Tea,5.05,17,3.16,Loyal,Rainy,No,,3.74,85.85
+2023-02-04,Friday,Evening,Cupcake,4.17,71,5.13,Loyal,Sunny,No,,2.95,296.07
+2023-02-05,Thursday,Morning,Cupcake,2.6,56,5.21,New,Cloudy,Yes,Buy 1 Get 1,0.32,145.6
+2023-02-06,Friday,Evening,Croissant,3.52,26,5.95,New,Snowy,No,Buy 1 Get 1,1.5,91.52
+2023-02-07,Wednesday,Morning,Smoothie,3.66,26,4.39,New,Rainy,Yes,,2.38,95.16
+2023-02-08,Thursday,Afternoon,Croissant,5.02,99,2.33,Loyal,Sunny,No,,3.62,496.98
+2023-02-09,Wednesday,Morning,Croissant,2.08,22,4.59,Loyal,Snowy,Yes,Buy 1 Get 1,-0.12,45.76
+2023-02-10,Monday,Evening,Coffee,3.08,26,4.5,Loyal,Snowy,Yes,Buy 1 Get 1,1.4,80.08
+2023-02-11,Monday,Afternoon,Tea,4.07,47,4.55,New,Snowy,No,Buy 1 Get 1,2.06,191.29
+2023-02-12,Thursday,Morning,Cupcake,3.08,90,3.23,Loyal,Cloudy,No,,1.6,277.2
+2023-02-13,Thursday,Morning,Smoothie,4.51,87,5.44,New,Rainy,Yes,Buy 1 Get 1,2.94,392.37
+2023-02-14,Saturday,Afternoon,Cupcake,3.93,54,5.84,Loyal,Snowy,No,Discount 10%,1.44,212.22
+2023-02-15,Friday,Afternoon,Cupcake,3.45,15,2.87,Loyal,Cloudy,No,,2.08,51.75
+2023-02-16,Saturday,Morning,Tea,5.8,44,2.35,Loyal,Rainy,Yes,Buy 1 Get 1,4.04,255.2
+2023-02-17,Friday,Evening,Cupcake,4.53,23,2.78,New,Rainy,Yes,,2.26,104.19
+2023-02-18,Saturday,Morning,Cupcake,2.52,81,5.28,New,Cloudy,Yes,Discount 10%,1.16,204.12
+2023-02-19,Wednesday,Afternoon,Croissant,4.24,70,4.71,New,Cloudy,No,,2.62,296.8
+2023-02-20,Thursday,Morning,Tea,5.12,24,4.54,New,Snowy,No,Buy 1 Get 1,3.2,122.88
+2023-02-21,Monday,Afternoon,Coffee,4.83,63,3.61,Loyal,Rainy,No,Discount 10%,3.11,304.29
+2023-02-22,Friday,Afternoon,Smoothie,2.69,36,4.31,New,Sunny,No,Discount 10%,1.0,96.84
+2023-02-23,Friday,Evening,Cupcake,5.89,22,3.23,Loyal,Cloudy,Yes,Buy 1 Get 1,4.35,129.58
+2023-02-24,Monday,Afternoon,Smoothie,3.8,40,3.91,New,Rainy,No,Buy 1 Get 1,1.92,152.0
+2023-02-25,Saturday,Afternoon,Coffee,2.64,44,5.17,New,Rainy,Yes,Buy 1 Get 1,0.7,116.16
+2023-02-26,Friday,Evening,Smoothie,2.72,69,5.92,Loyal,Snowy,No,,0.74,187.68
+2023-02-27,Sunday,Afternoon,Coffee,2.39,15,5.73,Loyal,Sunny,No,,1.28,35.85
+2023-02-28,Wednesday,Evening,Croissant,5.21,78,5.74,New,Snowy,Yes,,3.26,406.38
+2023-03-01,Thursday,Evening,Cupcake,2.49,95,3.61,New,Sunny,No,Buy 1 Get 1,0.06,236.55
+2023-03-02,Monday,Afternoon,Coffee,2.5,67,3.88,Loyal,Sunny,No,Buy 1 Get 1,0.69,167.5
+2023-03-03,Thursday,Afternoon,Smoothie,5.4,58,4.82,Loyal,Cloudy,Yes,,3.33,313.2
+2023-03-04,Sunday,Morning,Cupcake,3.38,32,5.69,Loyal,Rainy,No,Discount 10%,1.54,108.16
+2023-03-05,Friday,Evening,Croissant,2.12,98,2.57,Loyal,Rainy,Yes,,-0.16,207.76
+2023-03-06,Friday,Morning,Cupcake,2.21,43,3.22,Loyal,Rainy,Yes,Discount 10%,-0.18,95.03
+2023-03-07,Sunday,Afternoon,Coffee,2.57,35,2.56,New,Sunny,Yes,Buy 1 Get 1,1.29,89.95
+2023-03-08,Monday,Morning,Croissant,2.85,56,4.45,New,Rainy,Yes,Buy 1 Get 1,1.19,159.6
+2023-03-09,Wednesday,Evening,Smoothie,4.66,14,3.23,New,Cloudy,No,,3.07,65.24
+2023-03-10,Tuesday,Morning,Croissant,2.63,99,3.3,New,Sunny,No,,1.02,260.37
+2023-03-11,Monday,Evening,Croissant,2.48,29,2.28,Loyal,Sunny,No,Buy 1 Get 1,1.29,71.92
+2023-03-12,Tuesday,Afternoon,Tea,5.06,15,3.4,Loyal,Sunny,Yes,,2.84,75.9
+2023-03-13,Sunday,Afternoon,Croissant,4.68,79,5.45,Loyal,Sunny,No,Buy 1 Get 1,3.63,369.72
+2023-03-14,Saturday,Evening,Croissant,3.74,68,2.93,New,Cloudy,No,Buy 1 Get 1,1.95,254.32
+2023-03-15,Tuesday,Afternoon,Cupcake,4.2,73,4.78,Loyal,Rainy,No,Discount 10%,2.21,306.6
+2023-03-16,Wednesday,Afternoon,Smoothie,3.25,27,4.52,Loyal,Cloudy,No,,1.94,87.75
+2023-03-17,Saturday,Afternoon,Cupcake,3.93,13,5.45,New,Rainy,Yes,Buy 1 Get 1,1.57,51.09
+2023-03-18,Tuesday,Afternoon,Cupcake,4.03,26,2.53,New,Cloudy,Yes,,1.77,104.78
+2023-03-19,Sunday,Evening,Coffee,3.55,23,5.91,New,Snowy,No,Discount 10%,1.84,81.65
+2023-03-20,Saturday,Morning,Cupcake,5.63,87,4.33,Loyal,Snowy,Yes,Discount 10%,4.01,489.81
+2023-03-21,Sunday,Morning,Tea,2.06,22,5.98,Loyal,Snowy,No,,0.71,45.32
+2023-03-22,Tuesday,Afternoon,Tea,5.13,16,5.65,New,Snowy,No,,3.04,82.08
+2023-03-23,Sunday,Morning,Coffee,2.5,53,2.89,New,Sunny,No,Buy 1 Get 1,1.3,132.5
+2023-03-24,Wednesday,Morning,Smoothie,5.19,24,2.22,Loyal,Sunny,Yes,Discount 10%,3.17,124.56
+2023-03-25,Tuesday,Afternoon,Smoothie,4.46,28,3.02,New,Cloudy,No,Discount 10%,2.2,124.88
+2023-03-26,Tuesday,Afternoon,Cupcake,5.37,72,4.11,Loyal,Cloudy,Yes,Discount 10%,4.03,386.64
+2023-03-27,Tuesday,Morning,Cupcake,2.39,44,2.69,New,Snowy,Yes,,0.09,105.16
+2023-03-28,Monday,Evening,Cupcake,4.24,90,2.67,New,Rainy,No,Buy 1 Get 1,3.19,381.6
+2023-03-29,Monday,Afternoon,Smoothie,4.0,44,3.85,New,Snowy,Yes,,1.63,176.0
+2023-03-30,Monday,Evening,Croissant,4.82,28,2.13,Loyal,Cloudy,Yes,,3.64,134.96
+2023-03-31,Wednesday,Morning,Tea,4.14,29,2.49,Loyal,Snowy,No,,2.17,120.06
+2023-04-01,Saturday,Afternoon,Croissant,4.16,44,3.66,New,Cloudy,Yes,Buy 1 Get 1,2.78,183.04
+2023-04-02,Sunday,Evening,Croissant,3.72,41,2.25,Loyal,Snowy,Yes,,1.47,152.52
+2023-04-03,Friday,Afternoon,Smoothie,3.24,57,3.59,New,Rainy,No,Discount 10%,1.47,184.68
+2023-04-04,Tuesday,Morning,Croissant,3.93,53,3.9,New,Snowy,No,Discount 10%,2.73,208.29
+2023-04-05,Sunday,Evening,Coffee,2.47,33,3.81,Loyal,Rainy,Yes,Discount 10%,0.61,81.51
+2023-04-06,Tuesday,Morning,Cupcake,5.85,70,5.48,Loyal,Rainy,No,Buy 1 Get 1,4.24,409.5
+2023-04-07,Wednesday,Morning,Coffee,4.86,26,4.12,Loyal,Cloudy,No,,2.87,126.36
+2023-04-08,Tuesday,Afternoon,Tea,5.81,80,3.87,Loyal,Rainy,Yes,Buy 1 Get 1,3.49,464.8
+2023-04-09,Monday,Evening,Cupcake,2.91,59,3.64,New,Sunny,Yes,,1.3,171.69
+2023-04-10,Friday,Morning,Croissant,5.52,74,5.27,Loyal,Sunny,No,Discount 10%,4.09,408.48
+2023-04-11,Thursday,Morning,Tea,5.24,41,5.58,Loyal,Sunny,Yes,,4.22,214.84
+2023-04-12,Tuesday,Evening,Cupcake,4.71,45,5.41,New,Cloudy,No,,2.85,211.95
+2023-04-13,Sunday,Morning,Croissant,4.5,22,4.69,New,Sunny,No,,2.9,99.0
+2023-04-14,Monday,Morning,Coffee,3.27,79,2.55,New,Cloudy,Yes,Buy 1 Get 1,1.71,258.33
+2023-04-15,Thursday,Evening,Cupcake,5.27,67,3.11,New,Cloudy,Yes,,4.0,353.09
+2023-04-16,Friday,Evening,Croissant,4.01,23,2.18,Loyal,Sunny,No,,2.36,92.23
+2023-04-17,Thursday,Evening,Coffee,2.28,46,5.72,Loyal,Rainy,No,,-0.2,104.88
+2023-04-18,Monday,Evening,Tea,3.25,88,4.64,New,Snowy,No,Buy 1 Get 1,1.8,286.0
+2023-04-19,Saturday,Afternoon,Tea,5.74,77,4.99,New,Cloudy,No,Buy 1 Get 1,3.84,441.98
+2023-04-20,Saturday,Evening,Tea,5.4,49,3.25,Loyal,Sunny,Yes,Buy 1 Get 1,3.24,264.6
+2023-04-21,Thursday,Afternoon,Tea,5.93,68,5.38,Loyal,Cloudy,No,,3.81,403.24
+2023-04-22,Wednesday,Afternoon,Smoothie,4.51,89,3.04,Loyal,Rainy,Yes,Discount 10%,3.02,401.39
+2023-04-23,Sunday,Afternoon,Cupcake,2.99,25,2.01,Loyal,Rainy,Yes,Discount 10%,1.07,74.75
+2023-04-24,Sunday,Morning,Cupcake,2.65,71,3.51,Loyal,Sunny,No,Discount 10%,0.34,188.15
+2023-04-25,Thursday,Afternoon,Smoothie,2.75,13,4.28,New,Cloudy,Yes,,1.73,35.75
+2023-04-26,Tuesday,Afternoon,Croissant,2.08,54,3.91,New,Snowy,Yes,Discount 10%,0.43,112.32
+2023-04-27,Tuesday,Morning,Croissant,3.56,99,5.45,New,Snowy,No,Discount 10%,2.22,352.44
+2023-04-28,Sunday,Morning,Tea,2.77,37,2.42,New,Cloudy,Yes,Discount 10%,1.19,102.49
+2023-04-29,Sunday,Morning,Coffee,3.65,75,4.22,Loyal,Cloudy,Yes,,2.03,273.75
+2023-04-30,Saturday,Evening,Croissant,5.74,40,4.05,New,Cloudy,No,Discount 10%,3.62,229.6
+2023-05-01,Wednesday,Morning,Coffee,3.72,12,3.13,Loyal,Sunny,No,Discount 10%,2.58,44.64
+2023-05-02,Monday,Morning,Cupcake,5.51,17,5.29,Loyal,Rainy,No,,3.74,93.67
+2023-05-03,Tuesday,Afternoon,Coffee,4.42,33,5.01,Loyal,Snowy,No,Buy 1 Get 1,2.57,145.86
+2023-05-04,Sunday,Morning,Cupcake,2.99,24,4.93,Loyal,Sunny,No,Discount 10%,1.25,71.76
+2023-05-05,Saturday,Evening,Smoothie,3.42,52,5.5,Loyal,Cloudy,No,Buy 1 Get 1,1.32,177.84
+2023-05-06,Friday,Morning,Smoothie,2.34,40,4.89,Loyal,Cloudy,No,Discount 10%,0.76,93.6
+2023-05-07,Saturday,Evening,Tea,3.33,82,2.93,Loyal,Rainy,Yes,,0.91,273.06
+2023-05-08,Tuesday,Morning,Croissant,4.71,54,4.82,New,Cloudy,Yes,Buy 1 Get 1,2.99,254.34
+2023-05-09,Tuesday,Morning,Tea,2.29,75,3.23,Loyal,Sunny,No,Buy 1 Get 1,0.43,171.75
+2023-05-10,Saturday,Morning,Cupcake,2.82,17,2.97,New,Sunny,Yes,Buy 1 Get 1,0.58,47.94
+2023-05-11,Monday,Morning,Tea,3.53,80,2.29,New,Rainy,Yes,Buy 1 Get 1,2.12,282.4
+2023-05-12,Thursday,Evening,Coffee,5.93,66,4.98,Loyal,Sunny,No,Discount 10%,4.82,391.38
+2023-05-13,Tuesday,Evening,Cupcake,5.14,89,4.84,Loyal,Snowy,Yes,Discount 10%,3.08,457.46
+2023-05-14,Saturday,Afternoon,Smoothie,4.93,39,2.94,New,Sunny,No,Buy 1 Get 1,3.21,192.27
+2023-05-15,Sunday,Evening,Croissant,2.46,83,5.0,New,Sunny,Yes,Discount 10%,0.12,204.18
+2023-05-16,Saturday,Morning,Cupcake,5.12,27,5.67,New,Sunny,No,Buy 1 Get 1,2.65,138.24
+2023-05-17,Wednesday,Afternoon,Cupcake,5.14,78,2.43,New,Snowy,Yes,Buy 1 Get 1,3.54,400.92
+2023-05-18,Thursday,Afternoon,Coffee,4.4,48,2.93,Loyal,Cloudy,Yes,,2.78,211.2
+2023-05-19,Friday,Afternoon,Croissant,5.96,69,5.0,Loyal,Sunny,Yes,Buy 1 Get 1,4.35,411.24
+2023-05-20,Monday,Morning,Smoothie,3.3,52,3.1,Loyal,Rainy,No,Discount 10%,1.81,171.6
+2023-05-21,Friday,Evening,Cupcake,5.77,54,4.5,New,Snowy,Yes,Buy 1 Get 1,3.6,311.58
+2023-05-22,Thursday,Morning,Cupcake,5.66,32,2.32,Loyal,Rainy,Yes,,3.52,181.12
+2023-05-23,Thursday,Afternoon,Coffee,2.05,78,3.81,New,Sunny,No,Discount 10%,0.33,159.9
+2023-05-24,Thursday,Morning,Tea,3.8,15,4.96,Loyal,Rainy,No,,2.73,57.0
+2023-05-25,Friday,Morning,Smoothie,5.91,65,4.75,New,Sunny,Yes,,4.45,384.15
+2023-05-26,Sunday,Evening,Croissant,2.41,13,5.26,Loyal,Snowy,Yes,Buy 1 Get 1,0.97,31.33
+2023-05-27,Thursday,Evening,Cupcake,4.19,32,5.51,Loyal,Rainy,Yes,,1.97,134.08
+2023-05-28,Saturday,Afternoon,Cupcake,5.92,15,5.09,New,Rainy,Yes,,4.79,88.8
+2023-05-29,Friday,Morning,Smoothie,4.22,41,4.69,New,Sunny,No,Discount 10%,2.01,173.02
+2023-05-30,Thursday,Morning,Tea,2.76,27,2.13,New,Sunny,Yes,,0.76,74.52
+2023-05-31,Saturday,Evening,Cupcake,4.33,24,4.14,New,Cloudy,Yes,Buy 1 Get 1,2.23,103.92
+2023-06-01,Sunday,Morning,Smoothie,2.82,49,2.15,New,Sunny,No,Buy 1 Get 1,1.17,138.18
+2023-06-02,Wednesday,Morning,Coffee,4.08,82,5.23,Loyal,Sunny,Yes,Buy 1 Get 1,2.06,334.56
+2023-06-03,Sunday,Morning,Tea,2.3,83,3.28,New,Cloudy,Yes,,0.39,190.9
+2023-06-04,Thursday,Evening,Croissant,4.42,93,4.25,Loyal,Sunny,Yes,Discount 10%,2.27,411.06
+2023-06-05,Friday,Afternoon,Cupcake,4.07,15,3.12,Loyal,Sunny,No,Buy 1 Get 1,2.4,61.05
+2023-06-06,Tuesday,Afternoon,Smoothie,4.96,72,5.13,Loyal,Cloudy,No,,3.25,357.12
+2023-06-07,Thursday,Morning,Coffee,4.52,76,5.55,Loyal,Snowy,Yes,Buy 1 Get 1,2.55,343.52
+2023-06-08,Tuesday,Afternoon,Croissant,4.2,20,3.59,Loyal,Snowy,Yes,Buy 1 Get 1,3.04,84.0
+2023-06-09,Saturday,Evening,Smoothie,4.76,52,5.45,New,Sunny,No,Discount 10%,3.11,247.52
+2023-06-10,Wednesday,Evening,Smoothie,2.58,26,3.07,New,Sunny,Yes,Buy 1 Get 1,0.12,67.08
+2023-06-11,Monday,Afternoon,Croissant,4.38,13,4.14,Loyal,Cloudy,Yes,Discount 10%,3.32,56.94
+2023-06-12,Sunday,Afternoon,Coffee,2.69,72,5.44,Loyal,Cloudy,No,,1.22,193.68
+2023-06-13,Wednesday,Morning,Coffee,5.7,77,3.3,New,Snowy,No,Buy 1 Get 1,4.23,438.9
+2023-06-14,Thursday,Afternoon,Tea,2.27,90,5.82,New,Rainy,No,,0.32,204.3
+2023-06-15,Tuesday,Morning,Cupcake,3.72,50,2.49,Loyal,Sunny,Yes,,2.56,186.0
+2023-06-16,Sunday,Morning,Croissant,4.78,92,2.07,New,Rainy,Yes,,2.84,439.76
+2023-06-17,Tuesday,Evening,Croissant,3.83,14,5.62,New,Rainy,Yes,Buy 1 Get 1,2.69,53.62
+2023-06-18,Friday,Evening,Croissant,2.37,41,2.27,New,Cloudy,Yes,Discount 10%,1.23,97.17
+2023-06-19,Tuesday,Evening,Coffee,4.21,95,5.97,Loyal,Sunny,No,Buy 1 Get 1,2.12,399.95
+2023-06-20,Friday,Evening,Cupcake,4.57,79,5.81,New,Sunny,Yes,,3.08,361.03
+2023-06-21,Saturday,Afternoon,Tea,4.82,44,2.55,Loyal,Cloudy,Yes,Discount 10%,2.35,212.08
+2023-06-22,Sunday,Evening,Smoothie,3.49,31,4.15,Loyal,Rainy,No,,2.43,108.19
+2023-06-23,Sunday,Afternoon,Smoothie,4.25,74,2.74,Loyal,Cloudy,No,Discount 10%,2.58,314.5
+2023-06-24,Monday,Evening,Croissant,3.8,93,3.71,Loyal,Snowy,Yes,Buy 1 Get 1,2.63,353.4
+2023-06-25,Thursday,Afternoon,Cupcake,4.69,31,2.25,Loyal,Sunny,No,Discount 10%,3.16,145.39
+2023-06-26,Friday,Morning,Coffee,4.33,20,2.9,New,Snowy,No,Buy 1 Get 1,1.83,86.6
+2023-06-27,Monday,Afternoon,Cupcake,4.1,86,3.45,Loyal,Cloudy,Yes,,1.77,352.6
+2023-06-28,Tuesday,Afternoon,Cupcake,3.0,12,3.75,Loyal,Sunny,Yes,Discount 10%,1.93,36.0
+2023-06-29,Tuesday,Evening,Coffee,2.01,18,5.91,Loyal,Snowy,Yes,,0.17,36.18
+2023-06-30,Monday,Afternoon,Croissant,2.7,69,5.23,New,Snowy,Yes,Discount 10%,0.73,186.3
+2023-07-01,Sunday,Morning,Cupcake,2.47,85,4.95,New,Rainy,No,Buy 1 Get 1,1.16,209.95
+2023-07-02,Tuesday,Morning,Smoothie,3.8,96,4.15,New,Sunny,No,Discount 10%,2.58,364.8
+2023-07-03,Saturday,Evening,Coffee,4.45,23,5.36,New,Snowy,Yes,Discount 10%,2.09,102.35
+2023-07-04,Saturday,Morning,Tea,2.85,27,3.36,New,Snowy,Yes,Buy 1 Get 1,0.4,76.95
+2023-07-05,Monday,Afternoon,Croissant,5.76,82,4.84,New,Rainy,No,Buy 1 Get 1,3.27,472.32
+2023-07-06,Friday,Morning,Coffee,2.03,32,5.98,New,Snowy,Yes,Buy 1 Get 1,-0.15,64.96
+2023-07-07,Friday,Evening,Tea,5.09,83,3.26,Loyal,Snowy,Yes,Discount 10%,3.09,422.47
+2023-07-08,Monday,Afternoon,Tea,4.5,92,4.7,Loyal,Snowy,Yes,,2.98,414.0
+2023-07-09,Friday,Evening,Cupcake,3.49,56,5.38,New,Rainy,Yes,Discount 10%,2.23,195.44
+2023-07-10,Sunday,Afternoon,Cupcake,2.2,78,5.66,Loyal,Snowy,No,Discount 10%,1.08,171.6
+2023-07-11,Sunday,Morning,Cupcake,4.51,56,4.87,Loyal,Snowy,Yes,,2.47,252.56
+2023-07-12,Friday,Evening,Coffee,3.54,96,3.13,New,Sunny,No,Buy 1 Get 1,1.36,339.84
+2023-07-13,Saturday,Evening,Coffee,5.75,39,3.31,Loyal,Sunny,Yes,Discount 10%,3.51,224.25
+2023-07-14,Friday,Afternoon,Croissant,4.17,34,2.08,Loyal,Rainy,Yes,,1.8,141.78
+2023-07-15,Sunday,Evening,Cupcake,5.76,37,5.04,New,Cloudy,No,Buy 1 Get 1,3.44,213.12
+2023-07-16,Wednesday,Afternoon,Tea,2.88,34,2.17,Loyal,Sunny,Yes,Buy 1 Get 1,0.38,97.92
+2023-07-17,Thursday,Afternoon,Smoothie,4.9,83,5.46,New,Rainy,No,Discount 10%,3.53,406.7
+2023-07-18,Tuesday,Afternoon,Croissant,4.47,87,2.47,New,Snowy,Yes,Buy 1 Get 1,2.33,388.89
+2023-07-19,Wednesday,Afternoon,Coffee,4.96,67,2.69,Loyal,Snowy,Yes,Buy 1 Get 1,3.08,332.32
+2023-07-20,Friday,Morning,Croissant,2.86,50,3.91,Loyal,Rainy,Yes,,1.47,143.0
+2023-07-21,Saturday,Afternoon,Croissant,4.66,34,4.95,Loyal,Snowy,Yes,,2.19,158.44
+2023-07-22,Monday,Evening,Croissant,3.99,87,2.56,New,Snowy,Yes,Buy 1 Get 1,1.64,347.13
+2023-07-23,Friday,Morning,Croissant,4.97,57,3.76,New,Cloudy,No,,3.78,283.29
+2023-07-24,Saturday,Evening,Smoothie,3.31,19,3.93,New,Snowy,No,Buy 1 Get 1,2.27,62.89
+2023-07-25,Thursday,Morning,Cupcake,5.56,84,2.85,Loyal,Sunny,Yes,Discount 10%,3.53,467.04
+2023-07-26,Friday,Afternoon,Tea,2.34,20,2.46,Loyal,Snowy,Yes,,0.43,46.8
+2023-07-27,Sunday,Morning,Croissant,5.23,94,5.35,New,Rainy,No,Buy 1 Get 1,2.83,491.62
+2023-07-28,Monday,Morning,Croissant,5.45,30,4.01,Loyal,Cloudy,No,Buy 1 Get 1,4.1,163.5
+2023-07-29,Saturday,Evening,Croissant,5.27,95,2.06,Loyal,Snowy,Yes,,4.14,500.65
+2023-07-30,Saturday,Evening,Cupcake,4.05,54,5.21,New,Rainy,Yes,,2.66,218.7
+2023-07-31,Saturday,Afternoon,Coffee,3.75,16,5.92,New,Sunny,No,Discount 10%,2.72,60.0
+2023-08-01,Thursday,Morning,Coffee,5.99,90,4.42,Loyal,Snowy,Yes,Buy 1 Get 1,4.94,539.1
+2023-08-02,Friday,Morning,Smoothie,2.92,73,4.01,New,Cloudy,No,Discount 10%,0.55,213.16
+2023-08-03,Thursday,Morning,Coffee,4.19,73,5.51,Loyal,Snowy,Yes,Discount 10%,2.66,305.87
+2023-08-04,Tuesday,Afternoon,Croissant,4.68,11,5.81,New,Rainy,No,Discount 10%,3.06,51.48
+2023-08-05,Tuesday,Afternoon,Croissant,4.8,85,5.02,New,Cloudy,No,,3.77,408.0
+2023-08-06,Friday,Afternoon,Croissant,2.82,51,3.78,New,Snowy,Yes,Discount 10%,1.41,143.82
+2023-08-07,Sunday,Afternoon,Smoothie,4.62,91,4.37,Loyal,Sunny,No,,2.41,420.42
+2023-08-08,Thursday,Afternoon,Croissant,5.27,63,4.8,Loyal,Cloudy,Yes,,3.35,332.01
+2023-08-09,Monday,Evening,Coffee,2.2,84,2.78,New,Sunny,Yes,Discount 10%,0.07,184.8
+2023-08-10,Saturday,Morning,Cupcake,5.65,25,3.79,New,Rainy,Yes,Discount 10%,3.98,141.25
+2023-08-11,Saturday,Morning,Cupcake,2.12,27,5.32,New,Snowy,Yes,Buy 1 Get 1,0.66,57.24
+2023-08-12,Friday,Morning,Tea,3.42,68,4.62,Loyal,Sunny,No,Discount 10%,1.7,232.56
+2023-08-13,Sunday,Morning,Coffee,2.06,99,3.64,New,Rainy,Yes,Buy 1 Get 1,0.58,203.94
+2023-08-14,Tuesday,Morning,Croissant,2.31,25,4.65,New,Snowy,Yes,Discount 10%,0.05,57.75
+2023-08-15,Tuesday,Morning,Cupcake,5.64,15,2.47,New,Rainy,Yes,Discount 10%,4.19,84.6
+2023-08-16,Saturday,Morning,Coffee,3.42,66,3.61,New,Sunny,Yes,Discount 10%,1.43,225.72
+2023-08-17,Friday,Morning,Cupcake,3.7,56,5.17,Loyal,Rainy,No,Discount 10%,2.49,207.2
+2023-08-18,Thursday,Evening,Croissant,2.86,57,2.88,Loyal,Cloudy,Yes,Buy 1 Get 1,0.83,163.02
+2023-08-19,Tuesday,Morning,Cupcake,4.39,51,2.74,New,Snowy,No,Buy 1 Get 1,2.02,223.89
+2023-08-20,Thursday,Evening,Tea,4.38,85,5.8,Loyal,Rainy,No,Discount 10%,2.47,372.3
+2023-08-21,Sunday,Afternoon,Tea,3.49,69,2.84,Loyal,Sunny,No,Discount 10%,1.65,240.81
+2023-08-22,Tuesday,Morning,Cupcake,3.33,86,3.04,Loyal,Snowy,Yes,Buy 1 Get 1,0.89,286.38
+2023-08-23,Tuesday,Afternoon,Coffee,5.54,13,5.88,New,Cloudy,Yes,,3.6,72.02
+2023-08-24,Wednesday,Afternoon,Coffee,3.53,11,4.94,Loyal,Snowy,Yes,,2.14,38.83
+2023-08-25,Tuesday,Afternoon,Coffee,3.97,99,4.8,Loyal,Cloudy,Yes,,2.53,393.03
+2023-08-26,Monday,Evening,Cupcake,3.13,68,5.41,Loyal,Snowy,No,Buy 1 Get 1,1.07,212.84
+2023-08-27,Friday,Afternoon,Coffee,5.15,36,2.46,New,Rainy,No,Buy 1 Get 1,3.05,185.4
+2023-08-28,Friday,Afternoon,Croissant,3.59,36,4.82,New,Rainy,Yes,,2.13,129.24
+2023-08-29,Thursday,Afternoon,Tea,4.05,88,4.01,Loyal,Sunny,Yes,,2.53,356.4
+2023-08-30,Sunday,Morning,Croissant,3.01,81,5.32,Loyal,Cloudy,Yes,Discount 10%,0.52,243.81
+2023-08-31,Tuesday,Morning,Coffee,5.95,16,4.03,New,Sunny,Yes,Buy 1 Get 1,4.8,95.2
+2023-09-01,Monday,Evening,Croissant,3.17,72,4.48,New,Rainy,Yes,Buy 1 Get 1,1.56,228.24
+2023-09-02,Thursday,Evening,Coffee,5.08,55,3.91,Loyal,Cloudy,Yes,,3.99,279.4
+2023-09-03,Wednesday,Morning,Cupcake,3.71,72,3.91,Loyal,Sunny,Yes,,1.48,267.12
+2023-09-04,Thursday,Evening,Croissant,2.82,21,5.07,New,Sunny,No,Buy 1 Get 1,1.68,59.22
+2023-09-05,Thursday,Morning,Cupcake,5.2,22,4.51,New,Sunny,No,Discount 10%,3.19,114.4
+2023-09-06,Tuesday,Afternoon,Cupcake,3.33,52,4.53,Loyal,Sunny,No,,2.25,173.16
+2023-09-07,Wednesday,Afternoon,Smoothie,5.46,26,3.8,New,Sunny,No,Buy 1 Get 1,3.45,141.96
+2023-09-08,Thursday,Evening,Coffee,5.66,72,4.12,Loyal,Cloudy,Yes,Buy 1 Get 1,3.4,407.52
+2023-09-09,Monday,Morning,Tea,5.44,90,4.98,Loyal,Sunny,Yes,Discount 10%,3.84,489.6
+2023-09-10,Monday,Morning,Coffee,2.14,45,5.3,Loyal,Cloudy,Yes,Discount 10%,0.36,96.3
+2023-09-11,Friday,Evening,Tea,5.15,94,4.79,New,Sunny,Yes,,3.55,484.1
+2023-09-12,Wednesday,Morning,Coffee,3.65,17,5.7,Loyal,Rainy,Yes,,2.2,62.05
+2023-09-13,Wednesday,Afternoon,Cupcake,5.49,78,5.28,Loyal,Rainy,No,,3.29,428.22
+2023-09-14,Friday,Evening,Croissant,4.55,99,4.25,New,Sunny,Yes,Buy 1 Get 1,3.14,450.45
+2023-09-15,Thursday,Evening,Croissant,5.33,89,4.69,New,Snowy,No,,3.25,474.37
+2023-09-16,Wednesday,Morning,Smoothie,4.0,45,5.71,Loyal,Rainy,Yes,Buy 1 Get 1,2.69,180.0
+2023-09-17,Monday,Evening,Tea,4.14,37,4.48,Loyal,Cloudy,No,,2.77,153.18
+2023-09-18,Monday,Morning,Tea,2.58,56,5.3,New,Sunny,Yes,Discount 10%,1.08,144.48
+2023-09-19,Tuesday,Morning,Tea,5.14,85,4.76,New,Cloudy,No,Discount 10%,3.26,436.9
+2023-09-20,Wednesday,Morning,Cupcake,3.68,39,4.21,New,Snowy,Yes,Buy 1 Get 1,2.0,143.52
+2023-09-21,Thursday,Morning,Tea,4.0,32,2.97,Loyal,Sunny,Yes,Discount 10%,1.88,128.0
+2023-09-22,Friday,Morning,Croissant,5.14,25,3.7,Loyal,Rainy,Yes,Buy 1 Get 1,3.82,128.5
+2023-09-23,Friday,Evening,Cupcake,4.4,23,5.87,Loyal,Cloudy,Yes,Buy 1 Get 1,3.38,101.2
+2023-09-24,Thursday,Afternoon,Coffee,2.8,83,4.63,New,Rainy,No,Discount 10%,0.64,232.4
+2023-09-25,Sunday,Afternoon,Tea,4.36,80,4.26,Loyal,Rainy,Yes,Buy 1 Get 1,2.13,348.8
+2023-09-26,Saturday,Evening,Tea,3.63,61,5.73,New,Sunny,No,Discount 10%,2.54,221.43
+2023-09-27,Tuesday,Evening,Coffee,3.88,46,4.35,Loyal,Cloudy,Yes,,1.96,178.48
+2023-09-28,Friday,Afternoon,Tea,2.11,38,4.1,New,Snowy,No,,0.54,80.18
+2023-09-29,Wednesday,Afternoon,Coffee,2.84,76,5.04,Loyal,Rainy,Yes,Discount 10%,0.65,215.84
+2023-09-30,Tuesday,Afternoon,Cupcake,3.12,24,4.85,Loyal,Sunny,Yes,Discount 10%,0.81,74.88
+2023-10-01,Wednesday,Afternoon,Croissant,4.85,56,2.77,New,Sunny,No,Discount 10%,2.57,271.6
+2023-10-02,Sunday,Afternoon,Coffee,2.05,55,3.89,New,Snowy,Yes,Discount 10%,-0.12,112.75
+2023-10-03,Monday,Morning,Smoothie,3.64,61,3.89,Loyal,Sunny,Yes,,2.24,222.04
+2023-10-04,Tuesday,Evening,Coffee,5.7,28,3.51,New,Rainy,No,Buy 1 Get 1,3.48,159.6
+2023-10-05,Friday,Morning,Tea,2.45,86,4.07,New,Sunny,Yes,Buy 1 Get 1,0.65,210.7
+2023-10-06,Tuesday,Afternoon,Cupcake,4.07,30,3.65,Loyal,Cloudy,No,,2.99,122.1
+2023-10-07,Tuesday,Afternoon,Cupcake,5.15,73,2.8,New,Cloudy,Yes,Buy 1 Get 1,3.46,375.95
+2023-10-08,Tuesday,Afternoon,Coffee,5.77,46,3.65,Loyal,Rainy,No,,3.36,265.42
+2023-10-09,Saturday,Morning,Croissant,4.99,36,2.29,Loyal,Cloudy,No,Buy 1 Get 1,2.66,179.64
+2023-10-10,Tuesday,Morning,Smoothie,4.88,64,4.3,New,Snowy,No,Discount 10%,3.73,312.32
+2023-10-11,Wednesday,Afternoon,Cupcake,5.31,38,5.41,New,Sunny,No,Discount 10%,3.19,201.78
+2023-10-12,Monday,Morning,Tea,3.78,29,4.9,Loyal,Rainy,Yes,Discount 10%,1.57,109.62
+2023-10-13,Sunday,Morning,Tea,5.22,34,3.44,Loyal,Snowy,Yes,,3.81,177.48
+2023-10-14,Thursday,Afternoon,Croissant,2.03,79,2.35,Loyal,Sunny,No,,0.32,160.37
+2023-10-15,Tuesday,Morning,Cupcake,5.7,72,2.81,Loyal,Snowy,Yes,Buy 1 Get 1,3.63,410.4
+2023-10-16,Friday,Evening,Coffee,3.77,45,4.18,Loyal,Rainy,Yes,Buy 1 Get 1,2.11,169.65
+2023-10-17,Tuesday,Evening,Tea,4.21,11,2.83,Loyal,Rainy,Yes,Buy 1 Get 1,3.04,46.31
+2023-10-18,Friday,Evening,Croissant,3.02,31,4.18,New,Snowy,No,,0.96,93.62
+2023-10-19,Wednesday,Evening,Cupcake,4.97,25,2.93,New,Sunny,Yes,Buy 1 Get 1,2.6,124.25
+2023-10-20,Friday,Afternoon,Cupcake,2.31,27,5.4,New,Cloudy,Yes,Discount 10%,0.33,62.37
+2023-10-21,Thursday,Afternoon,Cupcake,5.49,78,3.59,Loyal,Cloudy,No,Buy 1 Get 1,3.33,428.22
+2023-10-22,Monday,Afternoon,Cupcake,5.31,63,2.98,New,Snowy,Yes,Discount 10%,3.77,334.53
+2023-10-23,Friday,Evening,Cupcake,2.86,39,5.25,Loyal,Rainy,No,,1.59,111.54
+2023-10-24,Friday,Evening,Tea,5.24,54,3.37,Loyal,Sunny,No,Discount 10%,3.28,282.96
+2023-10-25,Monday,Morning,Croissant,5.15,28,2.45,New,Sunny,No,Discount 10%,3.66,144.2
+2023-10-26,Thursday,Morning,Cupcake,4.53,96,4.28,Loyal,Rainy,Yes,Discount 10%,2.24,434.88
+2023-10-27,Tuesday,Evening,Smoothie,3.49,43,4.33,Loyal,Cloudy,Yes,,2.31,150.07
+2023-10-28,Friday,Evening,Smoothie,3.09,22,4.86,Loyal,Sunny,No,,1.44,67.98
+2023-10-29,Monday,Evening,Croissant,2.93,52,2.96,Loyal,Snowy,No,,1.33,152.36
+2023-10-30,Wednesday,Evening,Coffee,3.27,71,3.78,Loyal,Cloudy,No,,0.86,232.17
+2023-10-31,Monday,Morning,Coffee,5.61,31,3.13,Loyal,Snowy,No,Buy 1 Get 1,4.38,173.91
+2023-11-01,Wednesday,Evening,Coffee,2.31,61,2.32,New,Cloudy,No,,1.3,140.91
+2023-11-02,Thursday,Morning,Smoothie,5.32,61,5.51,Loyal,Rainy,No,Discount 10%,3.96,324.52
+2023-11-03,Tuesday,Evening,Coffee,3.4,45,4.92,Loyal,Snowy,Yes,,1.17,153.0
+2023-11-04,Monday,Evening,Tea,4.09,82,3.21,Loyal,Snowy,No,Buy 1 Get 1,2.78,335.38
+2023-11-05,Sunday,Evening,Cupcake,5.18,28,4.4,Loyal,Rainy,No,Buy 1 Get 1,3.82,145.04
+2023-11-06,Sunday,Morning,Smoothie,5.54,47,2.81,New,Snowy,No,Buy 1 Get 1,4.35,260.38
+2023-11-07,Saturday,Morning,Croissant,3.38,79,5.56,New,Cloudy,Yes,Discount 10%,1.31,267.02
+2023-11-08,Friday,Afternoon,Croissant,3.85,88,2.46,Loyal,Sunny,Yes,,2.75,338.8
+2023-11-09,Thursday,Evening,Cupcake,3.66,66,2.02,Loyal,Sunny,Yes,,2.16,241.56
+2023-11-10,Monday,Afternoon,Smoothie,2.05,29,4.01,Loyal,Rainy,Yes,,0.63,59.45
+2023-11-11,Sunday,Afternoon,Coffee,3.18,18,4.33,New,Cloudy,No,Discount 10%,1.35,57.24
+2023-11-12,Friday,Morning,Coffee,3.84,41,4.32,New,Snowy,Yes,Discount 10%,1.74,157.44
+2023-11-13,Sunday,Morning,Tea,3.64,13,2.22,New,Snowy,No,Buy 1 Get 1,1.84,47.32
+2023-11-14,Monday,Afternoon,Tea,4.89,59,3.26,New,Sunny,No,Buy 1 Get 1,2.49,288.51
+2023-11-15,Wednesday,Evening,Coffee,3.54,91,4.0,Loyal,Snowy,No,,1.11,322.14
+2023-11-16,Monday,Morning,Croissant,3.96,14,2.87,New,Sunny,No,Discount 10%,2.42,55.44
+2023-11-17,Saturday,Evening,Croissant,3.72,29,5.49,New,Rainy,No,Discount 10%,1.55,107.88
+2023-11-18,Monday,Evening,Tea,4.96,96,2.35,Loyal,Snowy,No,,2.85,476.16
+2023-11-19,Monday,Afternoon,Cupcake,5.45,84,3.95,Loyal,Cloudy,Yes,,3.11,457.8
+2023-11-20,Saturday,Afternoon,Coffee,4.13,46,4.77,New,Snowy,Yes,Buy 1 Get 1,2.46,189.98
+2023-11-21,Thursday,Afternoon,Tea,5.16,31,3.05,New,Sunny,Yes,Buy 1 Get 1,3.36,159.96
+2023-11-22,Monday,Afternoon,Tea,3.19,67,4.5,New,Rainy,Yes,Buy 1 Get 1,1.57,213.73
+2023-11-23,Saturday,Morning,Coffee,4.17,77,5.32,New,Sunny,Yes,,1.89,321.09
+2023-11-24,Friday,Morning,Coffee,3.38,53,2.76,Loyal,Snowy,No,,2.04,179.14
+2023-11-25,Wednesday,Afternoon,Croissant,3.66,43,5.67,Loyal,Sunny,Yes,Buy 1 Get 1,2.3,157.38
+2023-11-26,Wednesday,Morning,Cupcake,4.93,86,4.21,New,Sunny,Yes,Buy 1 Get 1,3.37,423.98
+2023-11-27,Monday,Afternoon,Cupcake,5.53,51,3.2,New,Rainy,Yes,Discount 10%,4.18,282.03
+2023-11-28,Thursday,Evening,Coffee,2.49,18,3.72,New,Cloudy,No,Discount 10%,0.65,44.82
+2023-11-29,Thursday,Evening,Smoothie,4.54,16,3.25,New,Snowy,No,Buy 1 Get 1,3.34,72.64
+2023-11-30,Friday,Evening,Tea,4.33,77,4.9,New,Rainy,No,Buy 1 Get 1,2.85,333.41
+2023-12-01,Monday,Afternoon,Tea,2.47,28,5.19,Loyal,Cloudy,Yes,Discount 10%,0.1,69.16
+2023-12-02,Wednesday,Evening,Coffee,2.85,40,5.33,Loyal,Sunny,Yes,Buy 1 Get 1,1.24,114.0
+2023-12-03,Thursday,Morning,Smoothie,3.24,44,5.94,Loyal,Cloudy,Yes,Discount 10%,1.12,142.56
+2023-12-04,Monday,Evening,Croissant,2.67,66,5.17,New,Sunny,Yes,Discount 10%,1.5,176.22
+2023-12-05,Sunday,Evening,Coffee,2.97,94,4.41,New,Sunny,Yes,Discount 10%,1.6,279.18
+2023-12-06,Thursday,Evening,Coffee,3.07,70,3.36,Loyal,Rainy,No,,0.86,214.9
+2023-12-07,Saturday,Morning,Tea,3.34,40,4.18,Loyal,Sunny,Yes,,1.2,133.6
+2023-12-08,Sunday,Afternoon,Coffee,5.0,92,2.16,New,Rainy,No,Buy 1 Get 1,3.42,460.0
+2023-12-09,Thursday,Morning,Coffee,4.29,62,4.98,Loyal,Cloudy,Yes,Discount 10%,1.86,265.98
+2023-12-10,Wednesday,Afternoon,Coffee,5.94,41,3.78,New,Cloudy,No,,3.57,243.54
+2023-12-11,Tuesday,Afternoon,Tea,3.66,75,2.08,New,Sunny,No,Buy 1 Get 1,1.22,274.5
+2023-12-12,Sunday,Evening,Croissant,5.02,68,2.25,Loyal,Rainy,No,Buy 1 Get 1,3.38,341.36
+2023-12-13,Friday,Afternoon,Croissant,5.49,19,3.55,Loyal,Sunny,No,Buy 1 Get 1,4.19,104.31
+2023-12-14,Friday,Morning,Coffee,4.72,11,4.33,Loyal,Rainy,Yes,Buy 1 Get 1,2.78,51.92
+2023-12-15,Wednesday,Morning,Tea,3.65,75,3.86,New,Rainy,Yes,Buy 1 Get 1,1.62,273.75
+2023-12-16,Thursday,Afternoon,Croissant,5.01,69,4.48,New,Rainy,Yes,Discount 10%,3.82,345.69
+2023-12-17,Monday,Evening,Croissant,2.81,97,3.92,Loyal,Cloudy,No,Buy 1 Get 1,0.63,272.57
+2023-12-18,Thursday,Evening,Croissant,3.31,26,4.65,New,Rainy,Yes,Discount 10%,2.28,86.06
+2023-12-19,Wednesday,Morning,Tea,4.19,25,2.88,New,Cloudy,Yes,,2.47,104.75
+2023-12-20,Friday,Evening,Tea,4.3,25,2.45,New,Rainy,Yes,Buy 1 Get 1,2.8,107.5
+2023-12-21,Thursday,Afternoon,Coffee,2.09,55,4.39,Loyal,Cloudy,Yes,,-0.02,114.95
+2023-12-22,Friday,Afternoon,Cupcake,5.78,48,3.94,New,Snowy,No,Discount 10%,4.31,277.44
+2023-12-23,Sunday,Morning,Croissant,4.79,40,2.11,Loyal,Cloudy,No,Discount 10%,2.55,191.6
+2023-12-24,Monday,Afternoon,Cupcake,3.98,97,3.52,Loyal,Cloudy,Yes,,2.09,386.06
+2023-12-25,Sunday,Morning,Tea,5.73,10,2.42,New,Sunny,Yes,Buy 1 Get 1,3.54,57.3
+2023-12-26,Friday,Afternoon,Tea,3.76,20,4.13,Loyal,Rainy,Yes,Buy 1 Get 1,1.28,75.2
+2023-12-27,Friday,Morning,Tea,5.92,94,3.58,New,Snowy,No,,3.9,556.48
+2023-12-28,Tuesday,Evening,Cupcake,4.05,13,4.45,Loyal,Sunny,No,,1.57,52.65
+2023-12-29,Tuesday,Afternoon,Tea,2.46,80,5.22,Loyal,Rainy,No,,1.42,196.8
+2023-12-30,Sunday,Afternoon,Coffee,5.06,35,3.2,New,Snowy,Yes,Buy 1 Get 1,3.55,177.1
+2023-12-31,Saturday,Morning,Tea,4.72,59,5.85,Loyal,Snowy,No,Buy 1 Get 1,3.56,278.48
+2024-01-01,Sunday,Morning,Smoothie,5.09,21,4.14,Loyal,Snowy,No,Buy 1 Get 1,3.7,106.89
+2024-01-02,Tuesday,Afternoon,Cupcake,5.81,90,4.47,Loyal,Rainy,No,,3.55,522.9
+2024-01-03,Friday,Morning,Smoothie,5.11,84,4.72,New,Snowy,No,Buy 1 Get 1,4.06,429.24
+2024-01-04,Wednesday,Afternoon,Tea,4.45,74,4.67,New,Snowy,No,Discount 10%,2.67,329.3
+2024-01-05,Sunday,Evening,Coffee,5.43,56,4.04,Loyal,Sunny,Yes,,3.58,304.08
+2024-01-06,Friday,Morning,Croissant,4.69,62,3.72,Loyal,Cloudy,Yes,Buy 1 Get 1,2.85,290.78
+2024-01-07,Wednesday,Afternoon,Tea,3.63,80,2.22,Loyal,Rainy,Yes,,1.92,290.4
+2024-01-08,Wednesday,Evening,Coffee,5.54,11,2.09,New,Cloudy,Yes,Discount 10%,3.35,60.94
+2024-01-09,Tuesday,Evening,Cupcake,2.89,33,3.43,New,Sunny,No,Discount 10%,1.69,95.37
+2024-01-10,Sunday,Afternoon,Smoothie,4.86,13,3.33,Loyal,Cloudy,Yes,,3.39,63.18
+2024-01-11,Thursday,Morning,Smoothie,5.53,28,3.55,New,Snowy,Yes,,3.61,154.84
+2024-01-12,Monday,Afternoon,Smoothie,4.93,35,2.55,New,Snowy,Yes,Discount 10%,2.89,172.55
+2024-01-13,Tuesday,Evening,Cupcake,4.79,84,4.95,New,Rainy,No,,3.18,402.36
+2024-01-14,Tuesday,Afternoon,Coffee,5.01,49,5.43,New,Rainy,Yes,Discount 10%,2.7,245.49
+2024-01-15,Thursday,Morning,Cupcake,3.86,59,5.75,Loyal,Rainy,No,Discount 10%,2.24,227.74
+2024-01-16,Monday,Evening,Smoothie,5.5,52,3.97,New,Sunny,No,Buy 1 Get 1,3.9,286.0
+2024-01-17,Friday,Afternoon,Tea,2.81,84,4.8,New,Rainy,No,,1.76,236.04
+2024-01-18,Saturday,Morning,Croissant,2.51,76,5.42,Loyal,Sunny,Yes,,0.68,190.76
+2024-01-19,Sunday,Evening,Cupcake,3.14,21,3.67,Loyal,Snowy,No,Buy 1 Get 1,1.08,65.94
+2024-01-20,Saturday,Morning,Cupcake,4.13,76,3.24,New,Cloudy,Yes,Discount 10%,2.96,313.88
+2024-01-21,Friday,Evening,Coffee,4.04,36,5.75,New,Snowy,Yes,,2.58,145.44
+2024-01-22,Tuesday,Afternoon,Coffee,5.28,63,4.06,Loyal,Snowy,Yes,Buy 1 Get 1,3.11,332.64
+2024-01-23,Monday,Morning,Cupcake,3.62,75,3.99,Loyal,Snowy,No,Buy 1 Get 1,2.07,271.5
+2024-01-24,Tuesday,Evening,Smoothie,3.94,58,2.71,Loyal,Rainy,No,,2.58,228.52
+2024-01-25,Wednesday,Morning,Croissant,2.05,25,2.43,New,Rainy,Yes,Buy 1 Get 1,0.04,51.25
+2024-01-26,Tuesday,Morning,Coffee,3.64,11,5.37,New,Rainy,No,Discount 10%,2.34,40.04
+2024-01-27,Tuesday,Afternoon,Smoothie,4.59,69,4.46,Loyal,Cloudy,No,Buy 1 Get 1,2.25,316.71
+2024-01-28,Friday,Morning,Tea,2.06,63,3.3,New,Rainy,No,Discount 10%,0.9,129.78
+2024-01-29,Friday,Evening,Coffee,3.12,39,2.77,Loyal,Sunny,Yes,Discount 10%,1.06,121.68
+2024-01-30,Friday,Evening,Smoothie,2.83,93,4.22,New,Snowy,No,,1.08,263.19
+2024-01-31,Saturday,Evening,Smoothie,2.17,47,4.34,Loyal,Cloudy,No,Buy 1 Get 1,-0.13,101.99
+2024-02-01,Wednesday,Evening,Croissant,3.92,37,2.83,Loyal,Cloudy,Yes,Discount 10%,2.73,145.04
+2024-02-02,Friday,Afternoon,Croissant,2.73,34,5.41,New,Cloudy,No,Discount 10%,0.71,92.82
+2024-02-03,Monday,Morning,Tea,4.97,19,2.34,New,Cloudy,Yes,Buy 1 Get 1,3.11,94.43
+2024-02-04,Saturday,Afternoon,Smoothie,5.39,69,3.42,New,Cloudy,No,Discount 10%,3.67,371.91
+2024-02-05,Thursday,Morning,Smoothie,4.18,51,4.72,New,Sunny,No,Buy 1 Get 1,2.44,213.18
+2024-02-06,Monday,Morning,Croissant,5.93,49,3.1,New,Snowy,No,,3.85,290.57
+2024-02-07,Sunday,Morning,Coffee,3.8,86,5.31,New,Cloudy,No,Discount 10%,1.39,326.8
+2024-02-08,Sunday,Afternoon,Coffee,4.05,51,4.96,Loyal,Snowy,No,Discount 10%,2.91,206.55
+2024-02-09,Monday,Morning,Cupcake,5.96,56,5.16,New,Rainy,No,Buy 1 Get 1,4.93,333.76
+2024-02-10,Friday,Afternoon,Croissant,2.93,46,2.48,Loyal,Cloudy,Yes,Buy 1 Get 1,0.72,134.78
+2024-02-11,Thursday,Evening,Cupcake,5.77,89,2.56,Loyal,Cloudy,No,Buy 1 Get 1,4.61,513.53
+2024-02-12,Thursday,Evening,Croissant,2.17,31,3.15,New,Snowy,No,Buy 1 Get 1,-0.31,67.27
+2024-02-13,Saturday,Morning,Tea,3.79,66,4.07,Loyal,Cloudy,No,Discount 10%,1.86,250.14
+2024-02-14,Thursday,Afternoon,Smoothie,2.28,93,4.99,Loyal,Cloudy,Yes,,0.3,212.04
+2024-02-15,Sunday,Evening,Tea,4.92,36,5.35,New,Cloudy,Yes,,3.62,177.12
+2024-02-16,Wednesday,Afternoon,Croissant,4.43,50,4.82,New,Sunny,Yes,,3.07,221.5
+2024-02-17,Friday,Afternoon,Smoothie,4.83,89,5.71,New,Sunny,No,,2.84,429.87
+2024-02-18,Thursday,Morning,Coffee,3.5,43,4.95,Loyal,Cloudy,No,Buy 1 Get 1,1.14,150.5
+2024-02-19,Saturday,Evening,Coffee,3.48,41,3.23,New,Sunny,Yes,Discount 10%,1.01,142.68
+2024-02-20,Sunday,Morning,Cupcake,2.18,99,3.06,New,Rainy,Yes,Discount 10%,0.88,215.82
+2024-02-21,Wednesday,Morning,Croissant,3.4,98,4.78,New,Cloudy,Yes,Discount 10%,2.2,333.2
+2024-02-22,Tuesday,Evening,Croissant,5.72,75,2.77,New,Rainy,No,Buy 1 Get 1,4.64,429.0
+2024-02-23,Tuesday,Evening,Coffee,3.52,21,2.37,Loyal,Snowy,Yes,Discount 10%,1.22,73.92
+2024-02-24,Wednesday,Afternoon,Tea,5.33,49,4.13,New,Rainy,No,Buy 1 Get 1,3.89,261.17
+2024-02-25,Sunday,Evening,Smoothie,5.37,82,5.29,Loyal,Snowy,No,Discount 10%,4.37,440.34
+2024-02-26,Saturday,Afternoon,Tea,3.49,85,2.41,New,Cloudy,No,,2.15,296.65
+2024-02-27,Wednesday,Afternoon,Tea,4.53,99,5.17,Loyal,Snowy,Yes,Buy 1 Get 1,3.02,448.47
+2024-02-28,Friday,Afternoon,Coffee,2.38,82,5.25,Loyal,Snowy,No,Discount 10%,-0.11,195.16
+2024-03-01,Friday,Evening,Coffee,2.41,19,3.93,Loyal,Rainy,Yes,,0.62,45.79
+2024-03-02,Tuesday,Morning,Coffee,2.19,57,2.23,New,Rainy,Yes,,0.88,124.83
+2024-03-03,Thursday,Afternoon,Cupcake,4.32,29,2.7,Loyal,Rainy,Yes,,2.82,125.28
+2024-03-04,Saturday,Morning,Tea,3.7,48,4.83,New,Cloudy,Yes,Buy 1 Get 1,2.2,177.6
+2024-03-05,Tuesday,Morning,Croissant,4.19,69,4.85,New,Cloudy,No,Buy 1 Get 1,3.16,289.11
+2024-03-06,Thursday,Evening,Smoothie,4.08,75,5.59,New,Rainy,No,Discount 10%,2.88,306.0
+2024-03-07,Thursday,Morning,Cupcake,3.4,74,4.33,New,Cloudy,No,,1.36,251.6
+2024-03-08,Friday,Morning,Croissant,4.71,60,2.5,New,Cloudy,No,Discount 10%,3.53,282.6
+2024-03-09,Sunday,Evening,Tea,5.03,45,2.49,Loyal,Snowy,Yes,Discount 10%,3.68,226.35
+2024-03-10,Monday,Afternoon,Coffee,2.06,33,4.88,New,Snowy,Yes,,0.53,67.98
+2024-03-11,Sunday,Morning,Tea,2.83,36,2.74,Loyal,Rainy,Yes,Discount 10%,0.69,101.88
+2024-03-12,Monday,Evening,Smoothie,4.85,11,3.31,Loyal,Cloudy,Yes,Buy 1 Get 1,2.98,53.35
+2024-03-13,Wednesday,Morning,Cupcake,3.55,40,3.95,Loyal,Snowy,No,Discount 10%,1.52,142.0
+2024-03-14,Friday,Morning,Cupcake,4.65,66,2.1,Loyal,Sunny,Yes,,2.8,306.9
+2024-03-15,Thursday,Afternoon,Smoothie,3.39,87,3.0,Loyal,Cloudy,No,Buy 1 Get 1,1.36,294.93
+2024-03-16,Saturday,Morning,Croissant,3.56,75,3.63,Loyal,Sunny,Yes,Buy 1 Get 1,2.56,267.0
+2024-03-17,Monday,Evening,Croissant,2.63,38,3.12,Loyal,Rainy,Yes,Discount 10%,0.23,99.94
+2024-03-18,Sunday,Morning,Cupcake,3.03,24,2.55,New,Cloudy,Yes,Discount 10%,1.86,72.72
+2024-03-19,Thursday,Afternoon,Cupcake,4.42,21,4.91,Loyal,Rainy,Yes,Buy 1 Get 1,2.81,92.82
+2024-03-20,Monday,Afternoon,Coffee,3.73,37,5.25,New,Rainy,No,Discount 10%,1.57,138.01
+2024-03-21,Monday,Evening,Croissant,5.1,93,3.03,Loyal,Rainy,No,,3.45,474.3
+2024-03-22,Monday,Afternoon,Smoothie,5.41,33,5.1,Loyal,Rainy,No,Discount 10%,2.99,178.53
+2024-03-23,Saturday,Morning,Croissant,4.17,30,3.54,Loyal,Rainy,No,Discount 10%,2.47,125.1
+2024-03-24,Friday,Afternoon,Coffee,5.03,19,4.03,Loyal,Cloudy,Yes,Buy 1 Get 1,2.72,95.57
+2024-03-25,Saturday,Evening,Cupcake,3.23,87,5.42,New,Sunny,Yes,Discount 10%,1.01,281.01
+2024-03-26,Tuesday,Afternoon,Cupcake,3.66,27,5.0,New,Cloudy,No,Discount 10%,1.19,98.82
+2024-03-27,Thursday,Afternoon,Coffee,4.85,97,5.22,New,Cloudy,No,Discount 10%,2.46,470.45
+2024-03-28,Friday,Afternoon,Smoothie,3.54,23,2.55,Loyal,Cloudy,Yes,,1.19,81.42
+2024-03-29,Friday,Evening,Cupcake,4.35,43,2.28,Loyal,Snowy,Yes,Discount 10%,2.25,187.05
+2024-03-30,Friday,Afternoon,Tea,2.74,67,5.57,Loyal,Snowy,No,,1.19,183.58
+2024-03-31,Sunday,Afternoon,Cupcake,4.4,85,3.55,New,Cloudy,No,,3.24,374.0
+2024-04-01,Friday,Morning,Tea,5.45,31,3.15,Loyal,Sunny,No,,3.42,168.95
+2024-04-02,Saturday,Evening,Coffee,5.47,79,4.9,New,Cloudy,Yes,,3.0,432.13
+2024-04-03,Friday,Afternoon,Coffee,4.9,45,5.35,New,Rainy,No,Buy 1 Get 1,2.81,220.5
+2024-04-04,Wednesday,Evening,Cupcake,4.98,54,5.45,Loyal,Snowy,No,,2.59,268.92
+2024-04-05,Thursday,Afternoon,Croissant,4.23,45,3.26,Loyal,Snowy,No,Discount 10%,2.02,190.35
+2024-04-06,Friday,Afternoon,Tea,4.34,31,5.41,New,Cloudy,No,,3.1,134.54
+2024-04-07,Thursday,Afternoon,Smoothie,2.53,87,2.16,New,Cloudy,No,Discount 10%,1.16,220.11
+2024-04-08,Wednesday,Morning,Cupcake,3.78,89,2.2,New,Sunny,Yes,,2.27,336.42
+2024-04-09,Wednesday,Morning,Smoothie,3.8,70,4.49,Loyal,Sunny,No,Buy 1 Get 1,2.55,266.0
+2024-04-10,Thursday,Morning,Cupcake,5.83,65,2.25,Loyal,Rainy,Yes,,3.96,378.95
+2024-04-11,Monday,Evening,Croissant,3.72,98,3.3,Loyal,Cloudy,No,,1.26,364.56
+2024-04-12,Tuesday,Evening,Croissant,4.2,42,4.69,Loyal,Cloudy,No,Buy 1 Get 1,2.06,176.4
+2024-04-13,Sunday,Morning,Croissant,4.13,54,3.35,Loyal,Cloudy,No,,2.49,223.02
+2024-04-14,Monday,Evening,Croissant,4.55,45,2.72,Loyal,Snowy,Yes,Discount 10%,3.54,204.75
+2024-04-15,Monday,Afternoon,Coffee,4.99,29,3.13,New,Rainy,Yes,,3.52,144.71
+2024-04-16,Saturday,Afternoon,Coffee,2.9,27,3.83,New,Sunny,Yes,,1.11,78.3
+2024-04-17,Sunday,Afternoon,Tea,4.11,47,3.9,New,Snowy,No,,2.62,193.17
+2024-04-18,Sunday,Morning,Smoothie,5.3,76,5.13,Loyal,Snowy,No,Buy 1 Get 1,4.13,402.8
+2024-04-19,Monday,Evening,Cupcake,3.85,32,5.0,New,Snowy,Yes,,2.19,123.2
+2024-04-20,Friday,Morning,Cupcake,3.11,25,3.83,Loyal,Snowy,Yes,,1.73,77.75
+2024-04-21,Saturday,Evening,Coffee,4.62,68,5.38,Loyal,Rainy,No,Discount 10%,2.26,314.16
+2024-04-22,Saturday,Afternoon,Cupcake,5.3,78,2.46,New,Cloudy,Yes,,4.15,413.4
+2024-04-23,Wednesday,Morning,Coffee,2.25,77,3.02,Loyal,Sunny,No,,1.18,173.25
+2024-04-24,Sunday,Evening,Tea,5.11,30,5.31,New,Sunny,Yes,,4.1,153.3
+2024-04-25,Monday,Evening,Smoothie,5.29,87,3.51,New,Snowy,Yes,,3.8,460.23
+2024-04-26,Wednesday,Afternoon,Tea,3.85,87,5.92,Loyal,Snowy,Yes,Discount 10%,1.86,334.95
+2024-04-27,Thursday,Morning,Croissant,5.93,79,3.87,New,Rainy,No,Discount 10%,3.83,468.47
+2024-04-28,Tuesday,Morning,Croissant,5.15,21,5.17,New,Snowy,No,Buy 1 Get 1,3.47,108.15
+2024-04-29,Saturday,Morning,Croissant,5.09,25,3.61,New,Sunny,Yes,,3.06,127.25
+2024-04-30,Thursday,Afternoon,Tea,4.99,90,3.7,New,Sunny,No,Buy 1 Get 1,3.45,449.1
+2024-05-01,Thursday,Morning,Cupcake,2.6,96,3.53,Loyal,Cloudy,No,Buy 1 Get 1,0.6,249.6
+2024-05-02,Friday,Afternoon,Smoothie,2.87,23,4.88,New,Cloudy,No,,1.81,66.01
+2024-05-03,Tuesday,Afternoon,Croissant,3.86,70,4.19,New,Sunny,No,Discount 10%,2.27,270.2
+2024-05-04,Thursday,Afternoon,Croissant,3.06,80,5.78,New,Sunny,Yes,Discount 10%,0.87,244.8
+2024-05-05,Thursday,Evening,Croissant,3.66,55,3.0,Loyal,Rainy,No,,1.46,201.3
+2024-05-06,Tuesday,Morning,Smoothie,5.55,41,2.4,New,Rainy,No,,3.48,227.55
+2024-05-07,Tuesday,Morning,Croissant,5.3,24,3.57,Loyal,Sunny,Yes,Discount 10%,3.99,127.2
+2024-05-08,Thursday,Afternoon,Smoothie,4.52,53,4.47,New,Snowy,No,,3.15,239.56
+2024-05-09,Tuesday,Afternoon,Croissant,5.43,26,5.44,New,Cloudy,No,,2.94,141.18
+2024-05-10,Thursday,Morning,Tea,5.14,50,3.38,New,Sunny,No,,3.98,257.0
+2024-05-11,Thursday,Afternoon,Tea,3.72,63,4.62,Loyal,Snowy,Yes,Discount 10%,2.45,234.36
+2024-05-12,Friday,Morning,Smoothie,2.8,53,3.4,Loyal,Sunny,Yes,Buy 1 Get 1,1.6,148.4
+2024-05-13,Monday,Evening,Tea,4.06,14,4.47,Loyal,Cloudy,No,Buy 1 Get 1,2.57,56.84
+2024-05-14,Thursday,Afternoon,Smoothie,4.94,36,5.54,Loyal,Cloudy,No,,3.62,177.84
+2024-05-15,Wednesday,Morning,Tea,3.75,96,2.93,Loyal,Rainy,Yes,Discount 10%,2.0,360.0
+2024-05-16,Saturday,Afternoon,Tea,4.67,87,3.62,Loyal,Rainy,Yes,,2.96,406.29
+2024-05-17,Sunday,Morning,Smoothie,2.38,88,5.97,New,Rainy,Yes,Discount 10%,0.03,209.44
+2024-05-18,Monday,Morning,Cupcake,4.99,52,5.47,Loyal,Rainy,No,,3.94,259.48
+2024-05-19,Monday,Afternoon,Tea,5.25,40,4.26,New,Cloudy,No,Discount 10%,3.77,210.0
+2024-05-20,Monday,Evening,Croissant,4.83,26,4.07,Loyal,Snowy,Yes,Discount 10%,2.94,125.58
+2024-05-21,Friday,Morning,Cupcake,5.87,92,3.14,Loyal,Snowy,No,Buy 1 Get 1,3.96,540.04
+2024-05-22,Thursday,Morning,Smoothie,5.31,63,4.07,Loyal,Snowy,No,,3.59,334.53
+2024-05-23,Friday,Morning,Cupcake,5.61,71,5.39,New,Sunny,No,Buy 1 Get 1,3.39,398.31
+2024-05-24,Thursday,Evening,Coffee,5.73,96,4.74,Loyal,Rainy,No,Buy 1 Get 1,4.64,550.08
+2024-05-25,Friday,Evening,Coffee,5.21,41,3.16,Loyal,Rainy,No,Discount 10%,2.99,213.61
+2024-05-26,Friday,Afternoon,Tea,4.7,49,2.81,New,Cloudy,No,,2.96,230.3
+2024-05-27,Saturday,Evening,Tea,2.02,22,3.06,New,Cloudy,No,Discount 10%,0.82,44.44
+2024-05-28,Wednesday,Afternoon,Croissant,3.86,93,2.68,New,Sunny,Yes,Discount 10%,1.53,358.98
+2024-05-29,Friday,Afternoon,Cupcake,4.28,44,2.38,New,Sunny,Yes,Discount 10%,2.31,188.32
+2024-05-30,Saturday,Evening,Coffee,3.22,14,3.68,Loyal,Snowy,Yes,,1.97,45.08
+2024-05-31,Tuesday,Afternoon,Tea,3.27,82,2.45,New,Cloudy,Yes,,2.22,268.14
+2024-06-01,Wednesday,Evening,Cupcake,5.84,38,2.69,Loyal,Rainy,Yes,Discount 10%,4.63,221.92
+2024-06-02,Friday,Afternoon,Tea,5.57,79,4.19,Loyal,Snowy,Yes,,3.66,440.03
+2024-06-03,Sunday,Evening,Tea,5.4,34,2.66,New,Rainy,Yes,Discount 10%,4.13,183.6
+2024-06-04,Monday,Evening,Coffee,3.62,31,2.26,Loyal,Snowy,Yes,,2.28,112.22
+2024-06-05,Tuesday,Afternoon,Coffee,2.05,75,3.27,New,Rainy,Yes,,1.01,153.75
+2024-06-06,Tuesday,Morning,Tea,2.32,54,2.88,Loyal,Sunny,No,Buy 1 Get 1,0.24,125.28
+2024-06-07,Saturday,Afternoon,Smoothie,3.25,78,4.06,New,Snowy,No,Discount 10%,1.03,253.5
+2024-06-08,Tuesday,Evening,Tea,2.06,98,2.41,New,Rainy,Yes,Buy 1 Get 1,-0.14,201.88
+2024-06-09,Wednesday,Morning,Tea,2.07,81,5.01,New,Rainy,No,Buy 1 Get 1,0.88,167.67
+2024-06-10,Friday,Afternoon,Croissant,5.67,10,5.62,New,Cloudy,No,Discount 10%,3.32,56.7
+2024-06-11,Friday,Afternoon,Croissant,4.82,93,4.97,New,Snowy,Yes,Discount 10%,2.81,448.26
+2024-06-12,Sunday,Afternoon,Croissant,3.24,53,4.13,New,Rainy,Yes,,0.89,171.72
+2024-06-13,Monday,Morning,Smoothie,2.53,96,5.44,Loyal,Cloudy,Yes,Discount 10%,0.86,242.88
+2024-06-14,Saturday,Evening,Smoothie,4.05,84,4.78,Loyal,Rainy,No,Buy 1 Get 1,2.39,340.2
+2024-06-15,Monday,Afternoon,Tea,2.02,48,2.04,Loyal,Snowy,No,Buy 1 Get 1,-0.16,96.96
+2024-06-16,Tuesday,Afternoon,Croissant,5.75,63,3.58,New,Sunny,Yes,Discount 10%,4.61,362.25
+2024-06-17,Sunday,Afternoon,Smoothie,3.66,97,5.4,Loyal,Snowy,No,Buy 1 Get 1,1.88,355.02
+2024-06-18,Monday,Afternoon,Coffee,3.61,84,3.38,New,Snowy,No,,1.36,303.24
+2024-06-19,Wednesday,Afternoon,Tea,3.56,38,2.14,Loyal,Rainy,No,Buy 1 Get 1,1.31,135.28
+2024-06-20,Friday,Evening,Cupcake,2.28,63,4.98,Loyal,Rainy,Yes,,-0.15,143.64
+2024-06-21,Tuesday,Evening,Tea,4.55,99,5.21,New,Snowy,No,Buy 1 Get 1,2.5,450.45
+2024-06-22,Sunday,Afternoon,Cupcake,4.93,25,2.64,Loyal,Cloudy,No,,3.62,123.25
+2024-06-23,Monday,Morning,Croissant,4.7,29,4.15,Loyal,Cloudy,No,,3.67,136.3
+2024-06-24,Saturday,Evening,Cupcake,2.55,55,2.77,Loyal,Cloudy,No,Discount 10%,0.83,140.25
+2024-06-25,Wednesday,Morning,Croissant,4.32,76,4.88,New,Rainy,No,,2.55,328.32
+2024-06-26,Wednesday,Evening,Coffee,4.28,74,3.09,Loyal,Rainy,No,Discount 10%,2.92,316.72
+2024-06-27,Monday,Afternoon,Cupcake,5.47,67,3.26,New,Snowy,No,Buy 1 Get 1,4.28,366.49
+2024-06-28,Friday,Evening,Tea,3.52,62,5.38,Loyal,Sunny,Yes,Buy 1 Get 1,1.64,218.24
+2024-06-29,Monday,Afternoon,Croissant,3.49,10,3.91,Loyal,Rainy,Yes,Buy 1 Get 1,1.34,34.9
+2024-06-30,Tuesday,Evening,Tea,4.47,90,4.68,Loyal,Snowy,No,,1.98,402.3
+2024-07-01,Monday,Afternoon,Smoothie,4.53,75,3.61,Loyal,Snowy,Yes,Buy 1 Get 1,2.39,339.75
+2024-07-02,Wednesday,Afternoon,Croissant,3.88,38,3.19,New,Sunny,No,Buy 1 Get 1,1.69,147.44
+2024-07-03,Sunday,Afternoon,Cupcake,3.77,93,4.5,Loyal,Cloudy,No,Discount 10%,1.85,350.61
+2024-07-04,Monday,Afternoon,Croissant,3.98,79,2.62,New,Snowy,No,Discount 10%,1.5,314.42
+2024-07-05,Friday,Morning,Tea,5.44,17,3.49,New,Snowy,Yes,Buy 1 Get 1,3.48,92.48
+2024-07-06,Sunday,Afternoon,Coffee,3.84,38,2.84,Loyal,Snowy,No,Buy 1 Get 1,1.55,145.92
+2024-07-07,Saturday,Morning,Croissant,5.76,60,4.78,Loyal,Cloudy,No,,3.34,345.6
+2024-07-08,Thursday,Morning,Cupcake,4.02,42,5.78,New,Cloudy,Yes,,1.63,168.84
+2024-07-09,Monday,Afternoon,Smoothie,5.8,12,5.98,New,Sunny,Yes,Buy 1 Get 1,4.23,69.6
+2024-07-10,Friday,Morning,Coffee,5.33,69,3.8,Loyal,Rainy,No,Discount 10%,4.21,367.77
+2024-07-11,Sunday,Evening,Smoothie,3.45,44,3.01,Loyal,Cloudy,Yes,Buy 1 Get 1,2.19,151.8
+2024-07-12,Friday,Afternoon,Croissant,5.45,78,3.77,Loyal,Rainy,Yes,,4.36,425.1
+2024-07-13,Saturday,Morning,Tea,2.44,85,5.39,Loyal,Rainy,No,Discount 10%,1.28,207.4
+2024-07-14,Wednesday,Afternoon,Tea,5.7,93,2.82,Loyal,Cloudy,No,Discount 10%,4.42,530.1
+2024-07-15,Friday,Afternoon,Cupcake,4.53,29,5.81,New,Snowy,No,,3.02,131.37
+2024-07-16,Sunday,Afternoon,Tea,2.22,82,3.37,Loyal,Sunny,Yes,Buy 1 Get 1,0.4,182.04
+2024-07-17,Friday,Morning,Coffee,4.58,48,5.94,Loyal,Rainy,Yes,Buy 1 Get 1,2.51,219.84
+2024-07-18,Friday,Evening,Tea,5.9,13,5.35,New,Snowy,Yes,Buy 1 Get 1,4.58,76.7
+2024-07-19,Friday,Evening,Cupcake,2.28,28,5.23,Loyal,Cloudy,No,,0.27,63.84
+2024-07-20,Tuesday,Morning,Croissant,4.22,54,3.27,Loyal,Rainy,Yes,Discount 10%,2.16,227.88
+2024-07-21,Tuesday,Afternoon,Croissant,4.99,52,2.04,New,Rainy,Yes,,3.15,259.48
+2024-07-22,Wednesday,Morning,Tea,5.24,22,3.53,Loyal,Rainy,No,Buy 1 Get 1,2.88,115.28
+2024-07-23,Monday,Morning,Smoothie,3.66,22,3.21,New,Snowy,No,,2.49,80.52
+2024-07-24,Friday,Morning,Croissant,2.82,69,2.15,Loyal,Snowy,No,Discount 10%,1.55,194.58
+2024-07-25,Saturday,Afternoon,Tea,2.17,66,4.02,Loyal,Snowy,Yes,,0.53,143.22
+2024-07-26,Monday,Morning,Cupcake,4.32,95,3.61,Loyal,Rainy,No,Buy 1 Get 1,3.13,410.4
+2024-07-27,Saturday,Afternoon,Tea,3.81,61,4.54,New,Rainy,Yes,Discount 10%,1.96,232.41
+2024-07-28,Monday,Morning,Croissant,5.79,62,4.48,New,Sunny,Yes,,4.19,358.98
+2024-07-29,Wednesday,Evening,Cupcake,2.24,95,2.48,New,Sunny,No,,0.81,212.8
+2024-07-30,Friday,Morning,Tea,4.74,52,5.91,New,Snowy,No,Discount 10%,3.49,246.48
+2024-07-31,Friday,Morning,Coffee,2.1,92,2.75,Loyal,Snowy,No,Discount 10%,0.6,193.2
+2024-08-01,Thursday,Evening,Cupcake,2.69,81,3.78,New,Cloudy,No,Buy 1 Get 1,0.78,217.89
+2024-08-02,Saturday,Afternoon,Coffee,3.81,81,3.95,New,Snowy,No,Discount 10%,1.95,308.61
+2024-08-03,Monday,Afternoon,Smoothie,3.82,51,5.25,New,Sunny,Yes,Buy 1 Get 1,2.57,194.82
+2024-08-04,Monday,Morning,Cupcake,4.74,99,2.4,Loyal,Sunny,Yes,,3.55,469.26
+2024-08-05,Tuesday,Evening,Coffee,5.64,35,3.71,Loyal,Sunny,Yes,Buy 1 Get 1,4.6,197.4
+2024-08-06,Thursday,Afternoon,Croissant,4.56,32,4.51,New,Rainy,No,,3.54,145.92
+2024-08-07,Sunday,Morning,Croissant,5.81,52,2.86,New,Rainy,Yes,Discount 10%,3.49,302.12
+2024-08-08,Sunday,Evening,Smoothie,5.53,86,4.51,Loyal,Snowy,No,,4.46,475.58
+2024-08-09,Tuesday,Afternoon,Cupcake,4.34,37,5.69,New,Cloudy,No,Discount 10%,2.24,160.58
+2024-08-10,Tuesday,Afternoon,Cupcake,5.34,18,5.99,New,Cloudy,Yes,,3.03,96.12
+2024-08-11,Tuesday,Evening,Cupcake,4.57,29,2.13,New,Cloudy,Yes,,3.42,132.53
+2024-08-12,Saturday,Evening,Smoothie,2.31,65,2.94,New,Rainy,No,,0.66,150.15
+2024-08-13,Saturday,Evening,Cupcake,4.96,92,3.24,Loyal,Sunny,Yes,,2.52,456.32
+2024-08-14,Wednesday,Evening,Croissant,2.38,48,3.6,Loyal,Sunny,No,Buy 1 Get 1,0.13,114.24
+2024-08-15,Wednesday,Morning,Coffee,4.38,60,2.97,Loyal,Rainy,Yes,,2.65,262.8
+2024-08-16,Tuesday,Evening,Croissant,4.81,21,2.81,New,Cloudy,Yes,Buy 1 Get 1,2.67,101.01
+2024-08-17,Thursday,Afternoon,Croissant,2.27,88,5.82,New,Cloudy,Yes,Discount 10%,0.02,199.76
+2024-08-18,Monday,Afternoon,Coffee,2.92,64,5.67,Loyal,Snowy,Yes,Discount 10%,1.4,186.88
+2024-08-19,Saturday,Morning,Croissant,5.66,87,2.19,Loyal,Snowy,Yes,Buy 1 Get 1,3.32,492.42
+2024-08-20,Thursday,Afternoon,Smoothie,4.47,20,3.36,Loyal,Cloudy,No,Discount 10%,2.76,89.4
+2024-08-21,Friday,Afternoon,Coffee,2.99,35,3.62,New,Rainy,Yes,Discount 10%,1.2,104.65
+2024-08-22,Saturday,Evening,Croissant,4.76,51,2.96,Loyal,Cloudy,Yes,,2.26,242.76
+2024-08-23,Saturday,Afternoon,Tea,4.39,36,4.52,New,Snowy,Yes,,2.13,158.04
+2024-08-24,Wednesday,Morning,Croissant,4.01,20,4.56,New,Cloudy,No,,2.47,80.2
+2024-08-25,Monday,Evening,Smoothie,5.9,47,5.4,Loyal,Rainy,No,Buy 1 Get 1,4.88,277.3
+2024-08-26,Monday,Evening,Cupcake,4.73,52,4.96,Loyal,Sunny,No,Buy 1 Get 1,2.79,245.96
+2024-08-27,Sunday,Morning,Croissant,3.5,28,4.17,New,Rainy,No,Discount 10%,1.44,98.0
+2024-08-28,Sunday,Evening,Cupcake,5.2,73,4.61,Loyal,Rainy,No,,3.22,379.6
+2024-08-29,Sunday,Evening,Tea,5.54,15,3.1,Loyal,Snowy,Yes,Buy 1 Get 1,3.09,83.1
+2024-08-30,Sunday,Morning,Croissant,2.5,55,4.37,New,Rainy,Yes,Buy 1 Get 1,0.21,137.5
+2024-08-31,Friday,Evening,Coffee,2.8,51,3.96,New,Rainy,Yes,,1.13,142.8
+2024-09-01,Friday,Morning,Cupcake,2.86,74,2.53,New,Snowy,No,Buy 1 Get 1,1.77,211.64
+2024-09-02,Saturday,Morning,Tea,4.76,81,2.97,New,Snowy,No,,3.05,385.56
+2024-09-03,Tuesday,Afternoon,Coffee,4.41,68,3.17,New,Sunny,Yes,Discount 10%,2.38,299.88
+2024-09-04,Wednesday,Afternoon,Coffee,4.48,61,5.7,Loyal,Cloudy,No,Discount 10%,2.57,273.28
+2024-09-05,Wednesday,Evening,Coffee,5.76,56,2.92,New,Rainy,No,Discount 10%,3.95,322.56
+2024-09-06,Sunday,Evening,Coffee,5.1,16,3.16,New,Snowy,No,,3.4,81.6
+2024-09-07,Saturday,Morning,Croissant,2.51,20,3.48,New,Sunny,Yes,Buy 1 Get 1,1.07,50.2
+2024-09-08,Thursday,Evening,Croissant,3.39,70,4.65,Loyal,Cloudy,Yes,Discount 10%,1.97,237.3
+2024-09-09,Tuesday,Morning,Croissant,3.74,77,2.47,New,Snowy,No,Discount 10%,1.99,287.98
+2024-09-10,Saturday,Morning,Tea,3.58,34,5.82,New,Cloudy,No,Discount 10%,2.34,121.72
+2024-09-11,Tuesday,Evening,Tea,4.68,21,5.46,New,Cloudy,No,Buy 1 Get 1,3.17,98.28
+2024-09-12,Tuesday,Morning,Tea,5.57,35,4.31,Loyal,Rainy,No,Buy 1 Get 1,4.08,194.95
+2024-09-13,Tuesday,Afternoon,Smoothie,3.22,21,4.7,New,Rainy,Yes,,1.34,67.62
+2024-09-14,Saturday,Evening,Tea,4.21,52,2.07,New,Snowy,No,Discount 10%,3.11,218.92
+2024-09-15,Sunday,Afternoon,Croissant,5.16,60,3.36,New,Cloudy,Yes,Buy 1 Get 1,2.92,309.6
+2024-09-16,Wednesday,Evening,Croissant,3.66,46,5.18,Loyal,Snowy,Yes,,1.82,168.36
+2024-09-17,Wednesday,Morning,Smoothie,2.67,55,2.31,Loyal,Snowy,Yes,Discount 10%,0.66,146.85
+2024-09-18,Sunday,Evening,Smoothie,3.9,62,3.13,Loyal,Cloudy,No,Buy 1 Get 1,1.85,241.8
+2024-09-19,Tuesday,Afternoon,Tea,2.22,97,4.34,Loyal,Snowy,Yes,Buy 1 Get 1,0.78,215.34
+2024-09-20,Thursday,Morning,Cupcake,5.77,89,3.03,New,Cloudy,Yes,,4.06,513.53
+2024-09-21,Monday,Evening,Smoothie,2.3,22,5.74,New,Cloudy,No,Discount 10%,-0.13,50.6
+2024-09-22,Saturday,Evening,Coffee,3.75,98,2.52,Loyal,Cloudy,No,Discount 10%,1.6,367.5
+2024-09-23,Monday,Evening,Croissant,4.12,63,5.19,Loyal,Cloudy,No,Buy 1 Get 1,1.67,259.56
+2024-09-24,Sunday,Afternoon,Coffee,5.94,66,4.03,New,Sunny,Yes,Discount 10%,3.82,392.04
+2024-09-25,Thursday,Afternoon,Croissant,2.66,13,5.0,New,Cloudy,No,,1.4,34.58
+2024-09-26,Saturday,Evening,Croissant,2.46,84,3.24,Loyal,Rainy,Yes,Buy 1 Get 1,1.36,206.64
