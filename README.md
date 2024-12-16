@@ -1,8 +1,8 @@
 ### Overview
-This project analyzes a cafe's pricing dataset to answer the business case question: what prices should the cafe's items be sold for to optimize sales? Using the OSEMN data science process, the analysis identified key trends and features that influence sales.
+This project analyzes a cafe's pricing dataset to answer the business case question: What prices should a cafe's items be sold for to optimize the sales? Using the OSEMN data science process, the analysis identified key trends and features that influence sales.
 
 ### Business Case
-The cafe aims to optimize pricing to maximize sales and profitability. By understanding the impact of features such as menu item type, customer behavior, weather, and promotions on demand, the cafe can set data-driven prices for its products. This analysis provides actionable insights for pricing strategies and improving overall revenue.
+A cafe aims to optimize pricing to maximize sales and profitability. By understanding the impact of features such as menu item type, customer behavior, weather, and promotions on demand, the cafe can set data-driven prices for its products. This analysis provides actionable insights for pricing strategies and improving overall revenue.
 
 ### Data
 The dataset, "cafe_pricing.csv," includes 1,000 records of sales data with 13 features such as date, day of the week, time of day, menu item, price, units sold, competitor price, customer type, weather, holiday, special promotions, and profit margins.
@@ -19,8 +19,6 @@ The project followed the OSEMN data science process:
 The analysis provided the following insights:
 - **Average Monthly Demand**: No clear trends in demand based on months were observed.
 - **Day of the Week**: Small fluctuations in demand, with some days showing higher average sales.
-- **Demand by Product**: Coffee and Tea consistently had the highest demand across all conditions.
-- **Weather and Customer Type**: Weather conditions and customer types (e.g., loyal vs. new customers) significantly influenced sales.
 - **Model Performance**: The Random Forest Regression model achieved strong predictive accuracy with meaningful feature importance.
 
 ### Conclusions + Future Work
