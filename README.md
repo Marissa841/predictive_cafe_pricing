@@ -1,3 +1,5 @@
+![Cafe Pic](images/cafe_pic.jpg)
+
 ### Overview
 This project analyzes a cafe's pricing dataset to answer the business case question: What prices should a cafe's items be sold for to optimize the sales? Using the OSEMN data science process, the analysis identified key trends and features that influence sales.
 
@@ -40,5 +42,6 @@ See the full analysis in the Jupyter Notebook or review the presentation for add
 ├── README.md
 ├── cafe_pricing.csv
 └── cafe_pricing.ipynb
+└── images
 ```
 
